@@ -19,17 +19,24 @@ from utils.api_client import RobustOpenAIClient, APIUsageTracker
 load_dotenv()
 
 class LeadScorer:
-    """Scores leads using OpenAI and structured prompt templates with robust API handling"""
+    """Scores leads using OpenAI and structured prompt templates with robust API handling and A/B testing"""
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-3.5-turbo", models: Optional[List[str]] = None):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-3.5-turbo", models: Optional[List[str]] = None, ab_test_id: Optional[str] = None):
         # Use robust client with fallback models
         fallback_models = models or [model, "gpt-4o-mini", "gpt-3.5-turbo"]
         self.client = RobustOpenAIClient(api_key=api_key, models=fallback_models)
         self.renderer = PromptRenderer()
         self.usage_tracker = APIUsageTracker()
+        
+        # A/B testing support
+        self.ab_test_id = ab_test_id
+        self.prompt_manager = None
+        if ab_test_id:
+            from prompts.prompt_manager import PromptVersionManager
+            self.prompt_manager = PromptVersionManager()
     
     def score_company(self, company: str, enriched_data: Dict) -> Dict[str, Any]:
-        """Score a single company using the Recurly template with robust API handling
+        """Score a single company using the Recurly template with robust API handling and A/B testing
         
         Args:
             company: Company name
@@ -41,8 +48,19 @@ class LeadScorer:
         # Format enriched data for the prompt
         formatted_data = self._format_enriched_data(enriched_data)
         
+        # Determine which prompt version to use
+        prompt_version_id = None
+        if self.ab_test_id and self.prompt_manager:
+            prompt_version_id = self.prompt_manager.get_prompt_for_ab_test(self.ab_test_id)
+        
         # Render the prompt template
-        prompt = self.renderer.render_recurly_template(company, formatted_data)
+        if prompt_version_id:
+            # Use A/B test version
+            variables = {'company': company, 'enriched_data': formatted_data}
+            prompt = self.renderer.render_with_version_manager(prompt_version_id, variables)
+        else:
+            # Use default template
+            prompt = self.renderer.render_recurly_template(company, formatted_data)
         
         # Call OpenAI API with fallback and retry logic
         messages = [{"role": "user", "content": prompt}]
@@ -60,13 +78,26 @@ class LeadScorer:
             content = api_result['content'].strip()
             result = self._parse_scoring_response(content)
             
-            # Add metadata about which model was used
+            # Add metadata about which model and prompt version was used
             result['model_used'] = api_result['model_used']
+            if prompt_version_id:
+                result['prompt_version_id'] = prompt_version_id
+                result['ab_test_id'] = self.ab_test_id
+                
+                # Record A/B test result
+                if self.prompt_manager:
+                    self.prompt_manager.record_test_result(
+                        self.ab_test_id, prompt_version_id, company, result
+                    )
+            
             return result
         else:
             print(f"Error scoring {company}: {api_result['error']}")
             error_response = self._create_error_response(company, api_result['error'])
             error_response['api_error_details'] = api_result
+            if prompt_version_id:
+                error_response['prompt_version_id'] = prompt_version_id
+                error_response['ab_test_id'] = self.ab_test_id
             return error_response
     
     def score_companies(self, enriched_list: List[Dict]) -> List[Dict[str, Any]]:

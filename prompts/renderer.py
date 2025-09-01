@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Prompt template renderer using Jinja2
+Prompt template renderer using Jinja2 with versioning support
 """
 
 import os
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 from jinja2 import Template
+from pathlib import Path
 
 class PromptRenderer:
     """Renders prompt templates with variable substitution"""
@@ -38,12 +39,13 @@ class PromptRenderer:
         
         return rendered
     
-    def render_recurly_template(self, company: str, enriched_data: str) -> str:
-        """Convenience method for Recurly scoring template
+    def render_recurly_template(self, company: str, enriched_data: str, version: Optional[str] = None) -> str:
+        """Convenience method for Recurly scoring template with version support
         
         Args:
             company: Company name
             enriched_data: Enriched research data as formatted string
+            version: Optional version suffix (e.g., 'v2' for recurly_template_v2.txt)
             
         Returns:
             Rendered Recurly scoring prompt
@@ -53,7 +55,35 @@ class PromptRenderer:
             'enriched_data': enriched_data
         }
         
-        return self.render_template('recurly_template.txt', variables)
+        template_name = 'recurly_template.txt'
+        if version:
+            # Support versioned templates like recurly_template_v2.txt
+            template_name = f'recurly_template_{version}.txt'
+        
+        return self.render_template(template_name, variables)
+    
+    def render_with_version_manager(self, version_id: str, variables: Dict[str, Any]) -> str:
+        """Render template using version manager
+        
+        Args:
+            version_id: Version ID from PromptVersionManager
+            variables: Template variables
+            
+        Returns:
+            Rendered prompt
+        """
+        from .prompt_manager import PromptVersionManager
+        
+        manager = PromptVersionManager(self.templates_dir)
+        version = manager.get_prompt_version(version_id)
+        
+        if not version:
+            raise ValueError(f"Version {version_id} not found")
+        
+        if not version.active:
+            raise ValueError(f"Version {version_id} is inactive")
+        
+        return self.render_template(version.template_file, variables)
 
 # Test function
 def test_renderer():

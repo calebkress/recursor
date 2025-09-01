@@ -1,0 +1,166 @@
+{
+  "abcf18fb-6589-4369-a3ed-3d19e3344abe": {
+    "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b": [
+      {
+        "company": "Shopify",
+        "result": {
+          "company": "Shopify",
+          "score": 75,
+          "breakdown": {
+            "industry_fit": 15,
+            "scale_indicators": 18,
+            "platform_maturity": 12,
+            "growth_churn_challenges": 15,
+            "revenue_sophistication": 15
+          },
+          "summary": [
+            "Shopify operates in the SaaS and consumer goods industries with subscription models.",
+            "There are indications of scaling issues and billing complexity as evidenced by their tech stack and news mentions.",
+            "There is a clear need for advanced recurring revenue management and retention tools based on their hiring signals and growth challenges."
+          ],
+          "justification": "Shopify scores well across most dimensions, showing strong alignment with Recurly's target customer profile. While there are some areas for improvement, overall, Shopify presents a promising opportunity for partnership.",
+          "priority": "High",
+          "next_steps": "Reach out to Shopify's product management and engineering teams to discuss their billing complexity and growth challenges, highlighting how Recurly's platform can address their needs.",
+          "model_used": "gpt-3.5-turbo",
+          "prompt_version_id": "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b",
+          "ab_test_id": "abcf18fb-6589-4369-a3ed-3d19e3344abe"
+        },
+        "timestamp": "2025-09-01T02:16:58.187535"
+      }
+    ],
+    "179d7cb8-a901-4e44-94a2-a5312be09980": [
+      {
+        "company": "Netflix",
+        "result": {
+          "company": "Netflix",
+          "score": 75,
+          "confidence": "Medium",
+          "breakdown": {
+            "revenue_scale_complexity": 15,
+            "billing_sophistication_needs": 20,
+            "retention_churn_focus": 15,
+            "technical_integration_capacity": 20,
+            "market_timing_urgency": 5
+          },
+          "key_signals": [
+            "Outgrowing current platform",
+            "Multiple pricing models",
+            "Churn reduction initiatives"
+          ],
+          "justification": "Netflix shows clear signs of outgrowing its current billing platform, with multiple pricing models and a focus on churn reduction, indicating a need for a more sophisticated subscription billing solution.",
+          "estimated_arr": "$10M+ ARR",
+          "urgency": "Medium",
+          "recommended_approach": "Reach out to Netflix's Product Management team to discuss their billing pain points and how Recurly can address their needs for advanced retention tools and revenue recognition.",
+          "potential_objections": [
+            "Already invested in AWS infrastructure",
+            "Satisfied with current billing platform"
+          ],
+          "next_steps": "Initiate contact with Netflix's Product Management team to schedule a demo and discuss how Recurly can support their subscription billing needs.",
+          "model_used": "gpt-3.5-turbo",
+          "prompt_version_id": "179d7cb8-a901-4e44-94a2-a5312be09980",
+          "ab_test_id": "abcf18fb-6589-4369-a3ed-3d19e3344abe"
+        },
+        "timestamp": "2025-09-01T02:17:00.400741"
+      },
+      {
+        "company": "Zoom",
+        "result": {
+          "company": "Zoom",
+          "score": 85,
+          "confidence": "High",
+          "breakdown": {
+            "revenue_scale_complexity": 20,
+            "billing_sophistication_needs": 20,
+            "retention_churn_focus": 15,
+            "technical_integration_capacity": 15,
+            "market_timing_urgency": 15
+          },
+          "key_signals": [
+            "Recent Press Releases",
+            "Active billing platform evaluation",
+            "Outgrowing basic platforms"
+          ],
+          "justification": "Zoom demonstrates strong revenue scale and billing complexity, with a focus on retention and churn. The recent press releases and active evaluation of billing platforms indicate a sense of urgency and readiness for a more sophisticated solution.",
+          "estimated_arr": "Unknown",
+          "urgency": "High",
+          "recommended_approach": "Reach out to Zoom's product management and engineering teams to showcase how Recurly can address their billing complexity, retention needs, and technical integration requirements.",
+          "potential_objections": [
+            "Existing integration investments with current platforms",
+            "Concerns about disruption during migration"
+          ],
+          "next_steps": "Initiate contact with Zoom's key decision-makers to schedule a demo and discuss potential partnership opportunities.",
+          "model_used": "gpt-3.5-turbo",
+          "prompt_version_id": "179d7cb8-a901-4e44-94a2-a5312be09980",
+          "ab_test_id": "abcf18fb-6589-4369-a3ed-3d19e3344abe"
+        },
+        "timestamp": "2025-09-01T02:17:10.484013"
+      },
+      {
+        "company": "Stripe",
+        "result": {
+          "company": "Stripe",
+          "score": 85,
+          "confidence": "High",
+          "breakdown": {
+            "revenue_scale_complexity": 20,
+            "billing_sophistication_needs": 20,
+            "retention_churn_focus": 15,
+            "technical_integration_capacity": 20,
+            "market_timing_urgency": 10
+          },
+          "key_signals": [
+            "Recent acquisition of Orum for instant payment capabilities",
+            "Strong database infrastructure and API-first approach",
+            "Active billing platform evaluation and expansion plans"
+          ],
+          "justification": "Stripe demonstrates high revenue scale, billing sophistication needs, and technical integration capacity, with a focus on churn reduction and market timing. The recent acquisitions and technical capabilities align well with Recurly's target profile.",
+          "estimated_arr": "Unknown",
+          "urgency": "Medium",
+          "recommended_approach": "Reach out to Stripe's business systems program manager or accounting technologist to discuss potential collaboration opportunities based on shared billing complexity and churn reduction needs.",
+          "potential_objections": [
+            "Already invested in existing billing platform",
+            "Concerns about integration challenges"
+          ],
+          "next_steps": "Initiate contact with key stakeholders at Stripe to present the value proposition of Recurly's platform and schedule a demo to showcase how it can address their specific needs.",
+          "model_used": "gpt-3.5-turbo",
+          "prompt_version_id": "179d7cb8-a901-4e44-94a2-a5312be09980",
+          "ab_test_id": "abcf18fb-6589-4369-a3ed-3d19e3344abe"
+        },
+        "timestamp": "2025-09-01T02:17:13.548427"
+      },
+      {
+        "company": "Figma",
+        "result": {
+          "company": "Figma",
+          "score": 75,
+          "confidence": "Medium",
+          "breakdown": {
+            "revenue_scale_complexity": 15,
+            "billing_sophistication_needs": 15,
+            "retention_churn_focus": 10,
+            "technical_integration_capacity": 20,
+            "market_timing_urgency": 15
+          },
+          "key_signals": [
+            "Strong engineering team with complex tech stack",
+            "Active billing platform evaluation and recent funding",
+            "Clear signs of outgrowing current platform"
+          ],
+          "justification": "Figma demonstrates a strong technical integration capacity with a complex tech stack and is actively evaluating billing platforms, indicating a need for a more sophisticated solution. They also show signs of outgrowing their current platform, aligning with the billing sophistication needs.",
+          "estimated_arr": "Unknown",
+          "urgency": "Medium",
+          "recommended_approach": "Reach out to Figma's product and engineering teams to showcase how Recurly can address their billing complexity and retention needs. Highlight Recurly's advanced features and analytics capabilities.",
+          "potential_objections": [
+            "Concerns about integration complexity",
+            "Budget constraints"
+          ],
+          "next_steps": "Initiate contact with Figma's product and engineering teams to schedule a demo and discuss how Recurly can meet their specific needs.",
+          "model_used": "gpt-3.5-turbo",
+          "prompt_version_id": "179d7cb8-a901-4e44-94a2-a5312be09980",
+          "ab_test_id": "abcf18fb-6589-4369-a3ed-3d19e3344abe"
+        },
+        "timestamp": "2025-09-01T02:17:16.409919"
+      }
+    ]
+  }
+}

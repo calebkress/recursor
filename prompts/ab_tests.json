@@ -1,0 +1,18 @@
+{
+  "abcf18fb-6589-4369-a3ed-3d19e3344abe": {
+    "name": "Recurly Scoring Optimization",
+    "description": "Compare v1 vs v2 scoring accuracy",
+    "prompt_versions": [
+      "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b",
+      "179d7cb8-a901-4e44-94a2-a5312be09980"
+    ],
+    "traffic_split": {
+      "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b": 0.5,
+      "179d7cb8-a901-4e44-94a2-a5312be09980": 0.5
+    },
+    "start_date": "2025-09-01T02:15:37.317888",
+    "end_date": null,
+    "active": true,
+    "results": {}
+  }
+}

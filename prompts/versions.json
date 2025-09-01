@@ -1,0 +1,32 @@
+{
+  "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b": {
+    "id": "a0f0be4c-15d1-4d8c-9a2d-8b83c6c2ab7b",
+    "name": "recurly_scoring",
+    "version": "v1.0",
+    "description": "Original Recurly scoring template",
+    "template_file": "recurly_template_v1.txt",
+    "variables": [
+      "company",
+      "enriched_data"
+    ],
+    "created_at": "2025-09-01T02:15:37.317565",
+    "created_by": "caleb",
+    "active": true,
+    "performance_metrics": {}
+  },
+  "179d7cb8-a901-4e44-94a2-a5312be09980": {
+    "id": "179d7cb8-a901-4e44-94a2-a5312be09980",
+    "name": "recurly_scoring",
+    "version": "v2.0",
+    "description": "Enhanced template with more specific criteria",
+    "template_file": "recurly_template_v2.txt",
+    "variables": [
+      "company",
+      "enriched_data"
+    ],
+    "created_at": "2025-09-01T02:15:37.317770",
+    "created_by": "caleb",
+    "active": true,
+    "performance_metrics": {}
+  }
+}
