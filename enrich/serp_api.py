@@ -1,24 +1,28 @@
 #!/usr/bin/env python3
 """
-SerpAPI integration for lead enrichment
+SerpAPI integration for lead enrichment with robust API handling
 Gathers hiring signals, tech stack info, and company news
 """
 
 import os
+import sys
 from typing import Dict, List, Optional
 from dotenv import load_dotenv
-from serpapi import GoogleSearch
+
+# Import robust client from utils
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
+from utils.api_client import RobustSerpAPIClient, APIUsageTracker
 
 # Load environment variables
 load_dotenv()
 
 class LeadEnricher:
-    """Enriches company leads with web research via SerpAPI"""
+    """Enriches company leads with web research via SerpAPI with robust error handling"""
     
     def __init__(self, api_key: Optional[str] = None):
-        self.api_key = api_key or os.getenv('SERPAPI_KEY')
-        if not self.api_key:
-            raise ValueError("SerpAPI key not found. Please set SERPAPI_KEY in .env file")
+        self.client = RobustSerpAPIClient(api_key=api_key)
+        self.usage_tracker = APIUsageTracker()
     
     def enrich_company(self, company: str) -> Dict:
         """Enrich a single company with hiring, tech stack, and news data
@@ -53,28 +57,27 @@ class LeadEnricher:
         return self._get_search_snippets(query, num_results=3)
     
     def _get_search_snippets(self, query: str, num_results: int = 5) -> List[str]:
-        """Perform search and extract relevant snippets"""
-        try:
-            params = {
-                "engine": "google",
-                "q": query,
-                "api_key": self.api_key,
-                "num": num_results
-            }
-            
-            search = GoogleSearch(params)
-            results = search.get_dict()
-            
+        """Perform search and extract relevant snippets with robust error handling"""
+        search_result = self.client.search(query, num=num_results)
+        self.usage_tracker.track_serpapi_usage(search_result['success'])
+        
+        if search_result['success']:
             snippets = []
-            for result in results.get('organic_results', []):
+            for result in search_result['results'].get('organic_results', []):
                 if 'snippet' in result:
                     snippets.append(result['snippet'])
-            
             return snippets
-            
-        except Exception as e:
-            print(f"Search error for '{query}': {e}")
+        else:
+            print(f"Search failed for '{query}': {search_result.get('error', 'Unknown error')}")
             return []
+    
+    def get_usage_summary(self) -> Dict:
+        """Get API usage summary"""
+        return self.usage_tracker.get_usage_summary()
+    
+    def print_usage_summary(self):
+        """Print API usage summary"""
+        self.usage_tracker.print_usage_summary()
 
 # Test function
 def test_enrichment():

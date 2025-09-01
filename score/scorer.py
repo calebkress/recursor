@@ -1,32 +1,35 @@
 #!/usr/bin/env python3
 """
-Lead scoring module using OpenAI and prompt templates
+Lead scoring module using OpenAI and prompt templates with robust API handling
 """
 
 import os
 import json
+import sys
 from typing import Dict, Any, Optional, List
 from dotenv import load_dotenv
-from openai import OpenAI
 
-# Add parent directory to path to import prompt renderer
-import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Import modules
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
 from prompts.renderer import PromptRenderer
+from utils.api_client import RobustOpenAIClient, APIUsageTracker
 
 # Load environment variables
 load_dotenv()
 
 class LeadScorer:
-    """Scores leads using OpenAI and structured prompt templates"""
+    """Scores leads using OpenAI and structured prompt templates with robust API handling"""
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-3.5-turbo"):
-        self.client = OpenAI(api_key=api_key or os.getenv('OPENAI_API_KEY'))
-        self.model = model
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-3.5-turbo", models: Optional[List[str]] = None):
+        # Use robust client with fallback models
+        fallback_models = models or [model, "gpt-4o-mini", "gpt-3.5-turbo"]
+        self.client = RobustOpenAIClient(api_key=api_key, models=fallback_models)
         self.renderer = PromptRenderer()
+        self.usage_tracker = APIUsageTracker()
     
     def score_company(self, company: str, enriched_data: Dict) -> Dict[str, Any]:
-        """Score a single company using the Recurly template
+        """Score a single company using the Recurly template with robust API handling
         
         Args:
             company: Company name
@@ -41,27 +44,30 @@ class LeadScorer:
         # Render the prompt template
         prompt = self.renderer.render_recurly_template(company, formatted_data)
         
-        # Call OpenAI API
-        try:
-            response = self.client.chat.completions.create(
-                model=self.model,
-                messages=[
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.1,  # Low temperature for consistent scoring
-                max_tokens=1000
-            )
-            
+        # Call OpenAI API with fallback and retry logic
+        messages = [{"role": "user", "content": prompt}]
+        api_result = self.client.chat_completion_with_fallback(
+            messages=messages,
+            temperature=0.1,  # Low temperature for consistent scoring
+            max_tokens=1000
+        )
+        
+        # Track usage
+        self.usage_tracker.track_openai_usage(api_result.get('usage'), api_result['success'])
+        
+        if api_result['success']:
             # Parse the JSON response
-            content = response.choices[0].message.content.strip()
-            
-            # Try to extract JSON from the response
+            content = api_result['content'].strip()
             result = self._parse_scoring_response(content)
-            return result
             
-        except Exception as e:
-            print(f"Error scoring {company}: {e}")
-            return self._create_error_response(company, str(e))
+            # Add metadata about which model was used
+            result['model_used'] = api_result['model_used']
+            return result
+        else:
+            print(f"Error scoring {company}: {api_result['error']}")
+            error_response = self._create_error_response(company, api_result['error'])
+            error_response['api_error_details'] = api_result
+            return error_response
     
     def score_companies(self, enriched_list: List[Dict]) -> List[Dict[str, Any]]:
         """Score multiple companies (backward compatibility)
@@ -139,6 +145,14 @@ class LeadScorer:
             "priority": "Low",
             "next_steps": "Review error and retry"
         }
+    
+    def get_usage_summary(self) -> Dict[str, Any]:
+        """Get API usage summary"""
+        return self.usage_tracker.get_usage_summary()
+    
+    def print_usage_summary(self):
+        """Print API usage summary"""
+        self.usage_tracker.print_usage_summary()
 
 # Backward compatibility function
 def score_companies(enriched_list, model='gpt-3.5-turbo'):
