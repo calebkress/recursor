@@ -17,9 +17,9 @@ import bcrypt
 import uuid
 
 class UserRole(Enum):
-    ADMIN = "admin"
-    TEAM_LEAD = "team_lead"
-    ANALYST = "analyst"
+    MANAGER = "manager"
+    ACCOUNT_EXECUTIVE = "account_executive"
+    SALES_DEVELOPMENT_REPRESENTATIVE = "sales_development_representative"
     VIEWER = "viewer"
 
 class TeamRole(Enum):
@@ -209,7 +209,7 @@ class UserManager:
         password: str,
         first_name: str,
         last_name: str,
-        role: UserRole = UserRole.ANALYST
+        role: UserRole = UserRole.SALES_DEVELOPMENT_REPRESENTATIVE
     ) -> str:
         """Create new user account"""
         

@@ -9,6 +9,16 @@ import re
 from typing import Optional, Dict, Any
 from auth.user_manager import UserManager, User, UserRole, TeamRole
 
+def format_user_role(role: UserRole) -> str:
+    """Format user role for display"""
+    role_names = {
+        UserRole.MANAGER: "Manager",
+        UserRole.ACCOUNT_EXECUTIVE: "Account Executive",
+        UserRole.SALES_DEVELOPMENT_REPRESENTATIVE: "Sales Development Representative", 
+        UserRole.VIEWER: "Viewer"
+    }
+    return role_names.get(role, role.value.replace('_', ' ').title())
+
 def init_auth_state():
     """Initialize authentication session state"""
     if 'user' not in st.session_state:
@@ -128,7 +138,7 @@ def show_registration_form():
         
         role = st.selectbox(
             "Role",
-            ["Analyst", "Team Lead", "Viewer"],
+            ["Sales Development Representative", "Account Executive", "Manager", "Viewer"],
             help="Your role determines your permissions in the system"
         )
         
@@ -169,8 +179,9 @@ def show_registration_form():
         
         # Map role
         role_mapping = {
-            "Analyst": UserRole.ANALYST,
-            "Team Lead": UserRole.TEAM_LEAD,
+            "Sales Development Representative": UserRole.SALES_DEVELOPMENT_REPRESENTATIVE,
+            "Account Executive": UserRole.ACCOUNT_EXECUTIVE,
+            "Manager": UserRole.MANAGER,
             "Viewer": UserRole.VIEWER
         }
         user_role = role_mapping[role]
@@ -221,7 +232,7 @@ def show_user_profile():
         
         with col2:
             st.metric("Username", user.username)
-            st.metric("Role", user.role.value.title())
+            st.metric("Role", format_user_role(user.role))
         
         with col3:
             st.metric("Status", "Active" if user.is_active else "Inactive")
