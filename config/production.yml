@@ -1,0 +1,52 @@
+api:
+  max_retries: 3
+  openai_api_key: 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
+  openai_max_tokens: 4000
+  openai_model: gpt-4-turbo
+  openai_temperature: 0.1
+  rate_limit_requests_per_minute: 60
+  request_timeout: 60
+  retry_delay: 1.0
+  serpapi_api_key: null
+clustering:
+  auto_determine_clusters: true
+  default_method: kmeans
+  enable_insights: true
+  max_clusters: 10
+  min_cluster_size: 2
+  random_seed: 42
+  silhouette_threshold: 0.3
+config_version: 1.0.0
+debug: false
+enrichment:
+  enable_hiring_signals: true
+  enable_news_mentions: true
+  enable_tech_stack: true
+  max_search_results: 5
+  search_result_cache_hours: 12
+environment: production
+logging:
+  backup_count: 5
+  console_enabled: true
+  file_enabled: true
+  file_path: logs/recursor.log
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  level: WARNING
+  max_file_size_mb: 10
+processing:
+  batch_size: 10
+  cache_ttl_hours: 24
+  checkpoint_interval: 50
+  enable_caching: true
+  enable_resume: true
+  max_concurrent_requests: 5
+  progress_update_interval: 1
+  temp_directory: tmp
+scoring:
+  default_template: recurly_template.txt
+  default_test_name: null
+  enable_ab_testing: false
+  fallback_template: recurly_template.txt
+  score_threshold_high: 75
+  score_threshold_medium: 50
+  templates_directory: prompts/templates
