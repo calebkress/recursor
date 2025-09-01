@@ -6,11 +6,11 @@
 
 ---
 
-## Why Recurser?
+## Why Recursor?
 
 Manual research is slow. Spray-and-pray sucks.
 
-Recurser bridges the gap — automatically enriching leads with relevant context (hiring signals, tech stack, press mentions) and scoring them via structured GPT prompts to flag the highest-potential targets.
+Recursor bridges the gap — automatically enriching leads with relevant context (hiring signals, tech stack, press mentions) and scoring them via structured GPT prompts to flag the highest-potential targets.
 
 It’s:
 - **Repeatable** – CLI and prompt-based, not vibes
@@ -23,7 +23,7 @@ It’s:
 ## Project Structure
 
 ```bash
-recurser/
+recursor/
 ├── cli.py             # Main entrypoint (enrich, score, or full pipeline)
 ├── dashboard.py       # Optional Streamlit UI for non-technical demoing
 ├── enrich/            # Web enrichment modules (SerpAPI, hiring, tech stack)
@@ -41,8 +41,8 @@ recurser/
 
 ```bash
 # Clone and install dependencies
-git clone https://github.com/yourusername/recurser.git
-cd recurser
+git clone https://github.com/yourusername/recursor.git
+cd recursor
 pip install -r requirements.txt
 
 # Add your keys (SerpAPI, OpenAI)
