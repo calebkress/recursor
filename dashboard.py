@@ -338,7 +338,7 @@ def main():
         if input_method == "Manual Entry":
             company_input = st.text_area(
                 "Enter company names (one per line):",
-                placeholder="Shopify\nZoom\nNetflix"
+                placeholder="Duolingo\nMasterClass\nNotionHQ"
             )
             
             if company_input:
