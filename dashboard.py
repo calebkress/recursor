@@ -326,7 +326,7 @@ def main():
                             if 'next_steps' in row and row['next_steps']:
                                 st.markdown(f"**Next Steps:** {row['next_steps']}")
     
-    else:  # Live Processing Mode
+    elif mode == "Live Processing":
         st.header("🚀 Live Processing")
         st.markdown("Process companies in real-time using the Recursor pipeline")
         

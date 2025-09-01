@@ -516,10 +516,14 @@ class TeamAnalyticsEngine:
             correlations = [insights['dimension_analysis'][d]['correlation_with_score'] 
                           for d in dimensions]
             
+            # Create color scale based on correlation values
+            colors = ['#d73027' if c < 0 else '#1a9850' if c > 0.5 else '#fee08b' 
+                     for c in correlations]
+            
             fig = go.Figure(data=go.Bar(
                 x=[d.replace('_', ' ').title() for d in dimensions],
                 y=correlations,
-                marker_color=px.colors.sequential.RdYlBu[::-1]
+                marker_color=colors
             ))
             fig.update_layout(
                 title="Dimension Correlation with Lead Score",

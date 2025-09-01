@@ -1,0 +1,3727 @@
+[
+  {
+    "company": "OmniSolutions",
+    "domain": "omnisolutions.ai",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 19,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (3209 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumDigital",
+    "domain": "quantumdigital.co",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 16,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (4741 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelLabs",
+    "domain": "xcellabs.ai",
+    "score": 55,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 17,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (4422 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UltraAI",
+    "domain": "ultraai.ai",
+    "score": 86,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (1730 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EchoSystems",
+    "domain": "echosystems.co",
+    "score": 66,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 19,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (2617 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeStudio",
+    "domain": "primestudio.tech",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (1952 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AcmeAI",
+    "domain": "acmeai.tech",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (2812 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudHub",
+    "domain": "cloudhub.ai",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4906 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperSystems",
+    "domain": "hypersystems.io",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 20,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (4138 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "BetaVentures",
+    "domain": "betaventures.co",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1986 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NeoDigital",
+    "domain": "neodigital.ai",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 16,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "NeoDigital operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (4296 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartSystems",
+    "domain": "smartsystems.tech",
+    "score": 81,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 12,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (338 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "JetLabs",
+    "domain": "jetlabs.com",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (3438 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CorePlatform",
+    "domain": "coreplatform.com",
+    "score": 67,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 19,
+      "platform_maturity": 8,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2884 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumSoftware",
+    "domain": "quantumsoftware.co",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 17,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (1029 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TitanHub",
+    "domain": "titanhub.ai",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (3764 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaDigital",
+    "domain": "alphadigital.tech",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (4705 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EchoVentures",
+    "domain": "echoventures.ai",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 20,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4995 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactTech",
+    "domain": "impacttech.io",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (4191 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfiniteInc",
+    "domain": "infinite.co",
+    "score": 70,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4114 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FusionTech",
+    "domain": "fusiontech.tech",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (4409 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartInc",
+    "domain": "smart.co",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "SmartInc operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (2630 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OrbitPlatform",
+    "domain": "orbitplatform.ai",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (1906 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumSoftware",
+    "domain": "quantumsoftware.ai",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 18,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "QuantumSoftware operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (1671 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaAI",
+    "domain": "deltaai.tech",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (2702 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "MetaAI",
+    "domain": "metaai.co",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 20,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (2821 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestDigital",
+    "domain": "questdigital.io",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 12,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 10
+    },
+    "summary": [
+      "Company size (434 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelPlatform",
+    "domain": "xcelplatform.io",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 13,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "XcelPlatform operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (693 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DataVentures",
+    "domain": "dataventures.io",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 16,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (3221 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaPlatform",
+    "domain": "alphaplatform.io",
+    "score": 67,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 18,
+      "platform_maturity": 7,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2217 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NeoSolutions",
+    "domain": "neosolutions.tech",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 19,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "NeoSolutions operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (4279 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelSystems",
+    "domain": "xcelsystems.ai",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "XcelSystems operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (1654 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AcmeSystems",
+    "domain": "acmesystems.ai",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 17,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (3155 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "KeyDigital",
+    "domain": "keydigital.co",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (2147 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HarborLabs",
+    "domain": "harborlabs.co",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (1876 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EchoStudio",
+    "domain": "echostudio.com",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 20,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "EchoStudio operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (4641 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaCorp",
+    "domain": "delta.com",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (2710 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FusionCorp",
+    "domain": "fusion.co",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (2361 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaTech",
+    "domain": "deltatech.co",
+    "score": 89,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (1122 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfinitePlatform",
+    "domain": "infiniteplatform.com",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 13,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (621 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactWorks",
+    "domain": "impactworks.com",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 16,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (1326 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.ai",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 18,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4089 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestPlatform",
+    "domain": "questplatform.com",
+    "score": 94,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 20,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "QuestPlatform operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (4634 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudCorp",
+    "domain": "cloud.ai",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (1503 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowWorks",
+    "domain": "flowworks.com",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 16,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1390 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactVentures",
+    "domain": "impactventures.tech",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (2644 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniTech",
+    "domain": "omnitech.com",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 16,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaVentures",
+    "domain": "alphaventures.co",
+    "score": 56,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 8,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (302 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowStudio",
+    "domain": "flowstudio.com",
+    "score": 55,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 12,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 11
+    },
+    "summary": [
+      "Company size (673 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaAI",
+    "domain": "deltaai.io",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "DeltaAI operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (2930 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "RadiusInc",
+    "domain": "radius.ai",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (1879 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CoreSolutions",
+    "domain": "coresolutions.com",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 17,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4429 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfiniteSoftware",
+    "domain": "infinitesoftware.ai",
+    "score": 81,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 18,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (4843 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaSystems",
+    "domain": "deltasystems.io",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (1244 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FusionSolutions",
+    "domain": "fusionsolutions.ai",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (828 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ApexLabs",
+    "domain": "apexlabs.ai",
+    "score": 68,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 15,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 10
+    },
+    "summary": [
+      "Company size (890 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UltraLabs",
+    "domain": "ultralabs.io",
+    "score": 91,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (4254 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusSystems",
+    "domain": "nexussystems.co",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 19,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "NexusSystems operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (3821 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EdgeWorks",
+    "domain": "edgeworks.tech",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 15,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (216 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfinitePlatform",
+    "domain": "infiniteplatform.io",
+    "score": 60,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 7,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 11
+    },
+    "summary": [
+      "Company size (4747 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudStudio",
+    "domain": "cloudstudio.tech",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (2746 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.co",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 18,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (4420 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "RadiusSystems",
+    "domain": "radiussystems.ai",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (4713 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudPlatform",
+    "domain": "cloudplatform.co",
+    "score": 89,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 19,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (1836 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniHub",
+    "domain": "omnihub.io",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 17,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "OmniHub operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (2559 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestLabs",
+    "domain": "questlabs.ai",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (3206 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperSystems",
+    "domain": "hypersystems.io",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 18,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (4310 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SphereSolutions",
+    "domain": "spheresolutions.co",
+    "score": 57,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 16,
+      "platform_maturity": 7,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 8
+    },
+    "summary": [
+      "Company size (4503 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudVentures",
+    "domain": "cloudventures.ai",
+    "score": 62,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 13,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (680 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "MetaWorks",
+    "domain": "metaworks.io",
+    "score": 67,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 16,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2981 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "LogicDigital",
+    "domain": "logicdigital.ai",
+    "score": 90,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 19,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (3054 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NeoPlatform",
+    "domain": "neoplatform.ai",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (3571 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UltraSoftware",
+    "domain": "ultrasoftware.tech",
+    "score": 81,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (4022 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UltraCorp",
+    "domain": "ultra.com",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 19,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2539 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "VisionAI",
+    "domain": "visionai.com",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 17,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (3649 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EdgeStudio",
+    "domain": "edgestudio.com",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 18,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (3699 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TitanCorp",
+    "domain": "titan.tech",
+    "score": 54,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 6,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 9
+    },
+    "summary": [],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "JetInc",
+    "domain": "jet.co",
+    "score": 92,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (1441 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EdgePlatform",
+    "domain": "edgeplatform.ai",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 18,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (1217 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UnityDigital",
+    "domain": "unitydigital.com",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 20,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (3831 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OrbitHub",
+    "domain": "orbithub.tech",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (3978 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ZenPlatform",
+    "domain": "zenplatform.ai",
+    "score": 64,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2308 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartHub",
+    "domain": "smarthub.ai",
+    "score": 90,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (1071 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "WaveInc",
+    "domain": "wave.tech",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 18,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (4148 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusAI",
+    "domain": "nexusai.co",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4853 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PeakInc",
+    "domain": "peak.io",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (3781 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CoreSystems",
+    "domain": "coresystems.com",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 15,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (439 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AcmeInc",
+    "domain": "acme.tech",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 16,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2305 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboInc",
+    "domain": "turbo.com",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (3917 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GridWorks",
+    "domain": "gridworks.com",
+    "score": 63,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 16,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "GridWorks operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (4666 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumSystems",
+    "domain": "quantumsystems.co",
+    "score": 68,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (1724 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HarborHub",
+    "domain": "harborhub.tech",
+    "score": 93,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (2594 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactTech",
+    "domain": "impacttech.io",
+    "score": 66,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 6,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 11
+    },
+    "summary": [
+      "Company size (3322 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperWorks",
+    "domain": "hyperworks.com",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 17,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (2987 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperSolutions",
+    "domain": "hypersolutions.tech",
+    "score": 63,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 15,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "HyperSolutions operates in E-commerce, showing strong fit for subscription billing needs",
+      "Company size (429 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CoreHub",
+    "domain": "corehub.tech",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2904 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniVentures",
+    "domain": "omniventures.com",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 18,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2988 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GridSoftware",
+    "domain": "gridsoftware.io",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 20,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (1055 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.io",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (3403 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelWorks",
+    "domain": "xcelworks.io",
+    "score": 63,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 17,
+      "platform_maturity": 8,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2205 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboSystems",
+    "domain": "turbosystems.io",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 18,
+      "platform_maturity": 6,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (4621 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PeakStudio",
+    "domain": "peakstudio.co",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (3113 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniWorks",
+    "domain": "omniworks.tech",
+    "score": 67,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (3290 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "BridgeLabs",
+    "domain": "bridgelabs.ai",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "BridgeLabs operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (900 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ZenDigital",
+    "domain": "zendigital.tech",
+    "score": 97,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (2352 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HarborWorks",
+    "domain": "harborworks.ai",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 13,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DataDigital",
+    "domain": "datadigital.co",
+    "score": 86,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "DataDigital operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (1870 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NeoDigital",
+    "domain": "neodigital.ai",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (3605 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaSolutions",
+    "domain": "alphasolutions.ai",
+    "score": 86,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (2725 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniSystems",
+    "domain": "omnisystems.com",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 20,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (4393 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactInc",
+    "domain": "impact.co",
+    "score": 70,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (3399 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboLabs",
+    "domain": "turbolabs.ai",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2168 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboLabs",
+    "domain": "turbolabs.tech",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (2783 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "VisionWorks",
+    "domain": "visionworks.ai",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 11,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "VisionWorks operates in E-commerce, showing strong fit for subscription billing needs",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ImpactStudio",
+    "domain": "impactstudio.co",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1877 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaSoftware",
+    "domain": "alphasoftware.com",
+    "score": 50,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 6,
+      "platform_maturity": 6,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 8
+    },
+    "summary": [
+      "AlphaSoftware operates in Fintech, showing strong fit for subscription billing needs"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "KeyCorp",
+    "domain": "key.co",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2451 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.ai",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 19,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4195 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowAI",
+    "domain": "flowai.com",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 20,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (2418 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AcmeCorp",
+    "domain": "acme.tech",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "AcmeCorp operates in E-commerce, showing strong fit for subscription billing needs",
+      "Company size (1665 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GridSoftware",
+    "domain": "gridsoftware.tech",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 18,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2902 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperVentures",
+    "domain": "hyperventures.tech",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (1176 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ApexSolutions",
+    "domain": "apexsolutions.co",
+    "score": 64,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 20,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (3518 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusWorks",
+    "domain": "nexusworks.io",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (1005 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "RadiusPlatform",
+    "domain": "radiusplatform.co",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (1980 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HarborStudio",
+    "domain": "harborstudio.tech",
+    "score": 80,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 20,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (4165 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GammaTech",
+    "domain": "gammatech.tech",
+    "score": 86,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1836 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UltraCorp",
+    "domain": "ultra.io",
+    "score": 64,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 18,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 14
+    },
+    "summary": [],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NeoCorp",
+    "domain": "neo.io",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 18,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (3405 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SphereLabs",
+    "domain": "spherelabs.co",
+    "score": 81,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 19,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4863 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FusionSystems",
+    "domain": "fusionsystems.com",
+    "score": 39,
+    "priority": "Low",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 6,
+      "platform_maturity": 6,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 9
+    },
+    "summary": [],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ApexSystems",
+    "domain": "apexsystems.tech",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 12,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (1000 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EchoHub",
+    "domain": "echohub.tech",
+    "score": 67,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 12,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (701 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OrbitInc",
+    "domain": "orbit.ai",
+    "score": 89,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "OrbitInc operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (1196 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "YieldCorp",
+    "domain": "yield.com",
+    "score": 68,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (1948 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.com",
+    "score": 61,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 18,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 10
+    },
+    "summary": [
+      "Company size (396 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartSoftware",
+    "domain": "smartsoftware.tech",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (989 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "BridgeSystems",
+    "domain": "bridgesystems.com",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 16,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (4998 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "MetaInc",
+    "domain": "meta.com",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2274 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "VisionCorp",
+    "domain": "vision.co",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 12,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "VisionCorp operates in E-commerce, showing strong fit for subscription billing needs"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfiniteDigital",
+    "domain": "infinitedigital.io",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4796 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "VertexHub",
+    "domain": "vertexhub.com",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 17,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "VertexHub operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (1397 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusSolutions",
+    "domain": "nexussolutions.co",
+    "score": 60,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 13,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AcmeHub",
+    "domain": "acmehub.co",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (3422 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TitanDigital",
+    "domain": "titandigital.com",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (271 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SphereInc",
+    "domain": "sphere.com",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2494 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeAI",
+    "domain": "primeai.co",
+    "score": 70,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 12,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (786 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "JetPlatform",
+    "domain": "jetplatform.co",
+    "score": 89,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 20,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (2211 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ApexLabs",
+    "domain": "apexlabs.com",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 20,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2965 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfiniteWorks",
+    "domain": "infiniteworks.ai",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 17,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "InfiniteWorks operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (3173 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OrbitSystems",
+    "domain": "orbitsystems.com",
+    "score": 87,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 19,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "OrbitSystems operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (1171 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestDigital",
+    "domain": "questdigital.io",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 19,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4428 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "BetaDigital",
+    "domain": "betadigital.co",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 17,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (3751 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelWorks",
+    "domain": "xcelworks.co",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 17,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2604 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperDigital",
+    "domain": "hyperdigital.ai",
+    "score": 81,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (1242 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "WaveStudio",
+    "domain": "wavestudio.ai",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 18,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (1787 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "KeyAI",
+    "domain": "keyai.io",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 16,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4298 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusStudio",
+    "domain": "nexusstudio.io",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (3627 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "JetAI",
+    "domain": "jetai.com",
+    "score": 78,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 20,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4923 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartStudio",
+    "domain": "smartstudio.ai",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 17,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (3403 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboSystems",
+    "domain": "turbosystems.com",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 6,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 9
+    },
+    "summary": [
+      "TurboSystems operates in Fintech, showing strong fit for subscription billing needs"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UnitySoftware",
+    "domain": "unitysoftware.co",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 19,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2504 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeSystems",
+    "domain": "primesystems.tech",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 19,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (4909 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HarborSoftware",
+    "domain": "harborsoftware.tech",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 20,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (2407 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowCorp",
+    "domain": "flow.tech",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 17,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (203 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartTech",
+    "domain": "smarttech.co",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (343 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "SmartStudio",
+    "domain": "smartstudio.ai",
+    "score": 89,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (2388 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestWorks",
+    "domain": "questworks.tech",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1708 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CoreVentures",
+    "domain": "coreventures.tech",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 20,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (1593 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GammaStudio",
+    "domain": "gammastudio.com",
+    "score": 88,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 17,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "GammaStudio operates in E-commerce, showing strong fit for subscription billing needs",
+      "Company size (2702 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "TurboStudio",
+    "domain": "turbostudio.com",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 19,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (3771 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "InfiniteSolutions",
+    "domain": "infinitesolutions.io",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (2072 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.tech",
+    "score": 68,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 12,
+      "platform_maturity": 15,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (592 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "YieldDigital",
+    "domain": "yielddigital.tech",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 19,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (4588 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GridWorks",
+    "domain": "gridworks.tech",
+    "score": 72,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 17,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2580 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestSolutions",
+    "domain": "questsolutions.io",
+    "score": 59,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 8,
+      "scale_indicators": 17,
+      "platform_maturity": 7,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (1804 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "GammaLabs",
+    "domain": "gammalabs.com",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (3487 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "ZenWorks",
+    "domain": "zenworks.io",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (2050 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowCorp",
+    "domain": "flow.com",
+    "score": 65,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "FlowCorp operates in Fintech, showing strong fit for subscription billing needs",
+      "Company size (403 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PeakSystems",
+    "domain": "peaksystems.com",
+    "score": 70,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 12,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (3403 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudLabs",
+    "domain": "cloudlabs.co",
+    "score": 95,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1216 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeWorks",
+    "domain": "primeworks.co",
+    "score": 87,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 18,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (3157 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeWorks",
+    "domain": "primeworks.io",
+    "score": 84,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 20,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (3669 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "NexusPlatform",
+    "domain": "nexusplatform.tech",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 17,
+      "platform_maturity": 13,
+      "growth_churn_challenges": 18,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (4002 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "LogicInc",
+    "domain": "logic.com",
+    "score": 82,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 17,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 19
+    },
+    "summary": [
+      "Company size (1733 employees) indicates complex billing requirements"
+    ],
+    "justification": "Moderate fit showing some alignment with target criteria but may require custom approach.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FusionSystems",
+    "domain": "fusionsystems.io",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 20,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (4128 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "QuestWorks",
+    "domain": "questworks.tech",
+    "score": 85,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 19,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "QuestWorks operates in SaaS, showing strong fit for subscription billing needs",
+      "Company size (2618 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "VisionWorks",
+    "domain": "visionworks.co",
+    "score": 69,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 20,
+      "platform_maturity": 9,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 13
+    },
+    "summary": [
+      "Company size (2387 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "OmniWorks",
+    "domain": "omniworks.tech",
+    "score": 58,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 13,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 9
+    },
+    "summary": [
+      "Company size (781 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "PrimeInc",
+    "domain": "prime.tech",
+    "score": 66,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 19,
+      "platform_maturity": 8,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (4460 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "HyperWorks",
+    "domain": "hyperworks.tech",
+    "score": 90,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 18,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (857 employees) indicates complex billing requirements",
+      "At Series B stage, likely facing scaling billing challenges"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "XcelSolutions",
+    "domain": "xcelsolutions.tech",
+    "score": 59,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 11,
+      "scale_indicators": 18,
+      "platform_maturity": 8,
+      "growth_churn_challenges": 10,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Company size (2566 employees) indicates complex billing requirements"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EdgePlatform",
+    "domain": "edgeplatform.tech",
+    "score": 83,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 20,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "EdgePlatform operates in E-commerce, showing strong fit for subscription billing needs",
+      "Company size (3055 employees) indicates complex billing requirements"
+    ],
+    "justification": "Demonstrates excellent fit across multiple dimensions with significant growth indicators and billing complexity.",
+    "next_steps": "Reach out to product team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "UnityHub",
+    "domain": "unityhub.io",
+    "score": 63,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 15,
+      "platform_maturity": 14,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (847 employees) indicates complex billing requirements"
+    ],
+    "justification": "High-potential lead with strong revenue sophistication and clear need for advanced billing platform.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "DeltaCorp",
+    "domain": "delta.tech",
+    "score": 77,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 13,
+      "scale_indicators": 17,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Company size (2927 employees) indicates complex billing requirements"
+    ],
+    "justification": "Shows promising industry fit with emerging subscription business model and scaling challenges.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "EdgeTech",
+    "domain": "edgetech.ai",
+    "score": 79,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 9,
+      "scale_indicators": 18,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Company size (366 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "FlowVentures",
+    "domain": "flowventures.co",
+    "score": 75,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 19,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Company size (3940 employees) indicates complex billing requirements"
+    ],
+    "justification": "Good strategic fit with solid platform maturity and growth trajectory indicating billing needs.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "AlphaSystems",
+    "domain": "alphasystems.io",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 12,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 14
+    },
+    "summary": [
+      "Company size (872 employees) indicates complex billing requirements",
+      "At Series C stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to revenue ops team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "CloudSoftware",
+    "domain": "cloudsoftware.tech",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 10,
+      "scale_indicators": 20,
+      "platform_maturity": 11,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 18
+    },
+    "summary": [
+      "Company size (1883 employees) indicates complex billing requirements"
+    ],
+    "justification": "Strong alignment with Recurly's target market showing clear subscription billing needs and revenue optimization opportunities.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  },
+  {
+    "company": "BetaSoftware",
+    "domain": "betasoftware.tech",
+    "score": 76,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 14,
+      "scale_indicators": 17,
+      "platform_maturity": 20,
+      "growth_churn_challenges": 11,
+      "revenue_sophistication": 17
+    },
+    "summary": [
+      "Company size (2945 employees) indicates complex billing requirements",
+      "At Growth stage, likely facing scaling billing challenges"
+    ],
+    "justification": "Emerging opportunity with basic needs that could grow into more sophisticated requirements.",
+    "next_steps": "Reach out to finance team to discuss billing optimization opportunities"
+  }
+]

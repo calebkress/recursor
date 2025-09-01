@@ -1,0 +1,4609 @@
+[
+  {
+    "company": "OmniSolutions",
+    "domain": "omnisolutions.ai",
+    "industry": "Healthtech",
+    "employee_count": 3209,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Engineering Manager",
+      "Revenue Operations"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2017
+  },
+  {
+    "company": "QuantumDigital",
+    "domain": "quantumdigital.co",
+    "industry": "Media",
+    "employee_count": 4741,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer",
+      "Growth Manager",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "QuantumDigital raises $43M Series B funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2018
+  },
+  {
+    "company": "XcelLabs",
+    "domain": "xcellabs.ai",
+    "industry": "Analytics",
+    "employee_count": 4422,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Business Analyst",
+      "Sales Director",
+      "Finance Manager",
+      "Product Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2018
+  },
+  {
+    "company": "UltraAI",
+    "domain": "ultraai.ai",
+    "industry": "Gaming",
+    "employee_count": 1730,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "VP of Sales",
+      "Business Analyst",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "UltraAI raises $96M Series C funding",
+      "UltraAI launches new analytics platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2017
+  },
+  {
+    "company": "EchoSystems",
+    "domain": "echosystems.co",
+    "industry": "Real Estate Tech",
+    "employee_count": 2617,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "EchoSystems raises $34M Series C funding",
+      "EchoSystems launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2013
+  },
+  {
+    "company": "PrimeStudio",
+    "domain": "primestudio.tech",
+    "industry": "Marketing Tech",
+    "employee_count": 1952,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer",
+      "Growth Manager",
+      "DevOps Engineer",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "PrimeStudio raises $87M Series B funding"
+    ],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "AcmeAI",
+    "domain": "acmeai.tech",
+    "industry": "Productivity",
+    "employee_count": 2812,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Revenue Operations",
+      "Finance Manager",
+      "Data Scientist",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "AcmeAI raises $98M Series A funding"
+    ],
+    "location": "New York",
+    "founded_year": 2011
+  },
+  {
+    "company": "CloudHub",
+    "domain": "cloudhub.ai",
+    "industry": "Gaming",
+    "employee_count": 4906,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Customer Success",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2016
+  },
+  {
+    "company": "HyperSystems",
+    "domain": "hypersystems.io",
+    "industry": "Healthtech",
+    "employee_count": 4138,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "Austin",
+    "founded_year": 2023
+  },
+  {
+    "company": "BetaVentures",
+    "domain": "betaventures.co",
+    "industry": "Analytics",
+    "employee_count": 1986,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "BetaVentures raises $35M Series B funding",
+      "BetaVentures launches new customer platform"
+    ],
+    "location": "New York",
+    "founded_year": 2017
+  },
+  {
+    "company": "NeoDigital",
+    "domain": "neodigital.ai",
+    "industry": "Fintech",
+    "employee_count": 4296,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2016
+  },
+  {
+    "company": "SmartSystems",
+    "domain": "smartsystems.tech",
+    "industry": "CRM",
+    "employee_count": 338,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "VP of Sales",
+      "Revenue Operations",
+      "Business Analyst",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "SmartSystems raises $21M Series A funding",
+      "SmartSystems launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2013
+  },
+  {
+    "company": "JetLabs",
+    "domain": "jetlabs.com",
+    "industry": "Security",
+    "employee_count": 3438,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Customer Success",
+      "Business Analyst",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "JetLabs raises $88M Series A funding",
+      "JetLabs launches new billing platform"
+    ],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "CorePlatform",
+    "domain": "coreplatform.com",
+    "industry": "Supply Chain",
+    "employee_count": 2884,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "UI/UX Designer",
+      "Data Scientist",
+      "Business Analyst",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "CorePlatform raises $60M Series B funding",
+      "CorePlatform launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2019
+  },
+  {
+    "company": "QuantumSoftware",
+    "domain": "quantumsoftware.co",
+    "industry": "CRM",
+    "employee_count": 1029,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2017
+  },
+  {
+    "company": "TitanHub",
+    "domain": "titanhub.ai",
+    "industry": "Healthtech",
+    "employee_count": 3764,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Revenue Operations",
+      "Sales Director",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "TitanHub raises $97M Series C funding",
+      "TitanHub launches new customer platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2015
+  },
+  {
+    "company": "AlphaDigital",
+    "domain": "alphadigital.tech",
+    "industry": "Real Estate Tech",
+    "employee_count": 4705,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Product Manager",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "AlphaDigital raises $49M Series C funding",
+      "AlphaDigital launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2018
+  },
+  {
+    "company": "EchoVentures",
+    "domain": "echoventures.ai",
+    "industry": "Real Estate Tech",
+    "employee_count": 4995,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Engineering Manager",
+      "Head of Product",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "EchoVentures raises $56M Series C funding",
+      "EchoVentures launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2023
+  },
+  {
+    "company": "ImpactTech",
+    "domain": "impacttech.io",
+    "industry": "Gaming",
+    "employee_count": 4191,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "VP of Sales",
+      "Sales Director",
+      "Head of Product",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "ImpactTech raises $84M Series B funding",
+      "ImpactTech launches new payment platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2011
+  },
+  {
+    "company": "InfiniteInc",
+    "domain": "infinite.co",
+    "industry": "Security",
+    "employee_count": 4114,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "InfiniteInc raises $11M Series C funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2021
+  },
+  {
+    "company": "FusionTech",
+    "domain": "fusiontech.tech",
+    "industry": "Marketing Tech",
+    "employee_count": 4409,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Revenue Operations",
+      "Data Scientist",
+      "Business Analyst",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "FusionTech raises $98M Series A funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2016
+  },
+  {
+    "company": "SmartInc",
+    "domain": "smart.co",
+    "industry": "Fintech",
+    "employee_count": 2630,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "DevOps Engineer",
+      "DevOps Engineer",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "SmartInc raises $18M Series B funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2013
+  },
+  {
+    "company": "OrbitPlatform",
+    "domain": "orbitplatform.ai",
+    "industry": "Supply Chain",
+    "employee_count": 1906,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "DevOps Engineer",
+      "Data Scientist",
+      "Product Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2017
+  },
+  {
+    "company": "QuantumSoftware",
+    "domain": "quantumsoftware.ai",
+    "industry": "SaaS",
+    "employee_count": 1671,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Product Manager",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "QuantumSoftware raises $77M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2011
+  },
+  {
+    "company": "DeltaAI",
+    "domain": "deltaai.tech",
+    "industry": "Media",
+    "employee_count": 2702,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Marketing Manager",
+      "Revenue Operations",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "DeltaAI raises $68M Series C funding",
+      "DeltaAI launches new analytics platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2013
+  },
+  {
+    "company": "MetaAI",
+    "domain": "metaai.co",
+    "industry": "Productivity",
+    "employee_count": 2821,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "MetaAI raises $76M Series C funding"
+    ],
+    "location": "New York",
+    "founded_year": 2015
+  },
+  {
+    "company": "QuestDigital",
+    "domain": "questdigital.io",
+    "industry": "Supply Chain",
+    "employee_count": 434,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Business Analyst",
+      "Growth Manager",
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "QuestDigital raises $79M Series A funding"
+    ],
+    "location": "Seattle",
+    "founded_year": 2017
+  },
+  {
+    "company": "XcelPlatform",
+    "domain": "xcelplatform.io",
+    "industry": "SaaS",
+    "employee_count": 693,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "XcelPlatform raises $53M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2011
+  },
+  {
+    "company": "DataVentures",
+    "domain": "dataventures.io",
+    "industry": "Media",
+    "employee_count": 3221,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Marketing Manager",
+      "Head of Product",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "DataVentures raises $80M Series A funding",
+      "DataVentures launches new billing platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2020
+  },
+  {
+    "company": "AlphaPlatform",
+    "domain": "alphaplatform.io",
+    "industry": "Healthtech",
+    "employee_count": 2217,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "AlphaPlatform raises $88M Series B funding",
+      "AlphaPlatform launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2016
+  },
+  {
+    "company": "NeoSolutions",
+    "domain": "neosolutions.tech",
+    "industry": "Fintech",
+    "employee_count": 4279,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "NeoSolutions raises $11M Series C funding",
+      "NeoSolutions launches new customer platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2020
+  },
+  {
+    "company": "XcelSystems",
+    "domain": "xcelsystems.ai",
+    "industry": "Fintech",
+    "employee_count": 1654,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "XcelSystems raises $23M Series C funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2016
+  },
+  {
+    "company": "AcmeSystems",
+    "domain": "acmesystems.ai",
+    "industry": "Analytics",
+    "employee_count": 3155,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "AcmeSystems raises $37M Series B funding",
+      "AcmeSystems launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2019
+  },
+  {
+    "company": "KeyDigital",
+    "domain": "keydigital.co",
+    "industry": "Security",
+    "employee_count": 2147,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "Software Engineer",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "KeyDigital raises $6M Series A funding",
+      "KeyDigital launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2010
+  },
+  {
+    "company": "HarborLabs",
+    "domain": "harborlabs.co",
+    "industry": "Media",
+    "employee_count": 1876,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Marketing Manager",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "HarborLabs raises $35M Series A funding",
+      "HarborLabs launches new customer platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2013
+  },
+  {
+    "company": "EchoStudio",
+    "domain": "echostudio.com",
+    "industry": "Fintech",
+    "employee_count": 4641,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "Austin",
+    "founded_year": 2012
+  },
+  {
+    "company": "DeltaCorp",
+    "domain": "delta.com",
+    "industry": "Supply Chain",
+    "employee_count": 2710,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "DeltaCorp raises $12M Series B funding",
+      "DeltaCorp launches new analytics platform"
+    ],
+    "location": "New York",
+    "founded_year": 2019
+  },
+  {
+    "company": "FusionCorp",
+    "domain": "fusion.co",
+    "industry": "Supply Chain",
+    "employee_count": 2361,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Product Manager",
+      "Marketing Manager",
+      "Customer Success",
+      "DevOps Engineer"
+    ],
+    "news_mentions": [
+      "FusionCorp raises $98M Series C funding",
+      "FusionCorp launches new billing platform"
+    ],
+    "location": "New York",
+    "founded_year": 2016
+  },
+  {
+    "company": "DeltaTech",
+    "domain": "deltatech.co",
+    "industry": "Gaming",
+    "employee_count": 1122,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "DeltaTech raises $24M Series C funding",
+      "DeltaTech launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2017
+  },
+  {
+    "company": "InfinitePlatform",
+    "domain": "infiniteplatform.com",
+    "industry": "Analytics",
+    "employee_count": 621,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "InfinitePlatform raises $35M Series A funding",
+      "InfinitePlatform launches new billing platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2017
+  },
+  {
+    "company": "ImpactWorks",
+    "domain": "impactworks.com",
+    "industry": "Marketing Tech",
+    "employee_count": 1326,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Product Manager"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2021
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.ai",
+    "industry": "Analytics",
+    "employee_count": 4089,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Engineering Manager",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "QuantumVentures raises $69M Series C funding",
+      "QuantumVentures launches new billing platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2017
+  },
+  {
+    "company": "QuestPlatform",
+    "domain": "questplatform.com",
+    "industry": "Fintech",
+    "employee_count": 4634,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Customer Success",
+      "Sales Director",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "QuestPlatform raises $91M Series C funding",
+      "QuestPlatform launches new billing platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "CloudCorp",
+    "domain": "cloud.ai",
+    "industry": "Supply Chain",
+    "employee_count": 1503,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "CloudCorp raises $78M Series C funding",
+      "CloudCorp launches new analytics platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2020
+  },
+  {
+    "company": "FlowWorks",
+    "domain": "flowworks.com",
+    "industry": "Productivity",
+    "employee_count": 1390,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Customer Success"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2016
+  },
+  {
+    "company": "ImpactVentures",
+    "domain": "impactventures.tech",
+    "industry": "Gaming",
+    "employee_count": 2644,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "DevOps Engineer",
+      "Growth Manager",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "ImpactVentures raises $82M Series A funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2022
+  },
+  {
+    "company": "OmniTech",
+    "domain": "omnitech.com",
+    "industry": "CRM",
+    "employee_count": 149,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Finance Manager"
+    ],
+    "news_mentions": [],
+    "location": "New York",
+    "founded_year": 2016
+  },
+  {
+    "company": "AlphaVentures",
+    "domain": "alphaventures.co",
+    "industry": "HR Tech",
+    "employee_count": 302,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Software Engineer",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "AlphaVentures raises $42M Series C funding",
+      "AlphaVentures launches new customer platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2014
+  },
+  {
+    "company": "FlowStudio",
+    "domain": "flowstudio.com",
+    "industry": "Gaming",
+    "employee_count": 673,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "UI/UX Designer",
+      "Software Engineer",
+      "Marketing Manager",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "FlowStudio raises $37M Series C funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2018
+  },
+  {
+    "company": "DeltaAI",
+    "domain": "deltaai.io",
+    "industry": "SaaS",
+    "employee_count": 2930,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Head of Product",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "DeltaAI raises $98M Series B funding",
+      "DeltaAI launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2022
+  },
+  {
+    "company": "RadiusInc",
+    "domain": "radius.ai",
+    "industry": "Security",
+    "employee_count": 1879,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Head of Product",
+      "Head of Product"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2010
+  },
+  {
+    "company": "CoreSolutions",
+    "domain": "coresolutions.com",
+    "industry": "Gaming",
+    "employee_count": 4429,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2023
+  },
+  {
+    "company": "InfiniteSoftware",
+    "domain": "infinitesoftware.ai",
+    "industry": "Healthtech",
+    "employee_count": 4843,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Growth Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2022
+  },
+  {
+    "company": "DeltaSystems",
+    "domain": "deltasystems.io",
+    "industry": "Marketing Tech",
+    "employee_count": 1244,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "VP of Sales",
+      "Business Analyst",
+      "VP of Sales",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "DeltaSystems raises $41M Series C funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2012
+  },
+  {
+    "company": "FusionSolutions",
+    "domain": "fusionsolutions.ai",
+    "industry": "Media",
+    "employee_count": 828,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "DevOps Engineer",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "FusionSolutions raises $44M Series A funding",
+      "FusionSolutions launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2012
+  },
+  {
+    "company": "ApexLabs",
+    "domain": "apexlabs.ai",
+    "industry": "HR Tech",
+    "employee_count": 890,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "VP of Sales",
+      "Finance Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "ApexLabs raises $27M Series B funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2012
+  },
+  {
+    "company": "UltraLabs",
+    "domain": "ultralabs.io",
+    "industry": "Media",
+    "employee_count": 4254,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "DevOps Engineer"
+    ],
+    "news_mentions": [
+      "UltraLabs raises $43M Series A funding",
+      "UltraLabs launches new customer platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2023
+  },
+  {
+    "company": "NexusSystems",
+    "domain": "nexussystems.co",
+    "industry": "Fintech",
+    "employee_count": 3821,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "NexusSystems raises $61M Series C funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2014
+  },
+  {
+    "company": "EdgeWorks",
+    "domain": "edgeworks.tech",
+    "industry": "Healthtech",
+    "employee_count": 216,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Customer Success"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2019
+  },
+  {
+    "company": "InfinitePlatform",
+    "domain": "infiniteplatform.io",
+    "industry": "Real Estate Tech",
+    "employee_count": 4747,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Head of Product",
+      "Finance Manager",
+      "Revenue Operations",
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "InfinitePlatform raises $93M Series C funding",
+      "InfinitePlatform launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2020
+  },
+  {
+    "company": "CloudStudio",
+    "domain": "cloudstudio.tech",
+    "industry": "HR Tech",
+    "employee_count": 2746,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "CloudStudio raises $70M Series A funding",
+      "CloudStudio launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2010
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.co",
+    "industry": "Gaming",
+    "employee_count": 4420,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "DevOps Engineer",
+      "Customer Success",
+      "Finance Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2022
+  },
+  {
+    "company": "RadiusSystems",
+    "domain": "radiussystems.ai",
+    "industry": "Healthtech",
+    "employee_count": 4713,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Product Manager",
+      "Marketing Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2018
+  },
+  {
+    "company": "CloudPlatform",
+    "domain": "cloudplatform.co",
+    "industry": "Healthtech",
+    "employee_count": 1836,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "VP of Sales",
+      "Business Analyst",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2014
+  },
+  {
+    "company": "OmniHub",
+    "domain": "omnihub.io",
+    "industry": "SaaS",
+    "employee_count": 2559,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "VP of Sales",
+      "Revenue Operations"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2023
+  },
+  {
+    "company": "QuestLabs",
+    "domain": "questlabs.ai",
+    "industry": "Gaming",
+    "employee_count": 3206,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Revenue Operations",
+      "Revenue Operations",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "QuestLabs raises $20M Series C funding",
+      "QuestLabs launches new billing platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "HyperSystems",
+    "domain": "hypersystems.io",
+    "industry": "Productivity",
+    "employee_count": 4310,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Software Engineer",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "HyperSystems raises $57M Series B funding",
+      "HyperSystems launches new billing platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2020
+  },
+  {
+    "company": "SphereSolutions",
+    "domain": "spheresolutions.co",
+    "industry": "Security",
+    "employee_count": 4503,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "SphereSolutions raises $31M Series B funding",
+      "SphereSolutions launches new analytics platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2020
+  },
+  {
+    "company": "CloudVentures",
+    "domain": "cloudventures.ai",
+    "industry": "Gaming",
+    "employee_count": 680,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Engineering Manager",
+      "Software Engineer",
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "Austin",
+    "founded_year": 2023
+  },
+  {
+    "company": "MetaWorks",
+    "domain": "metaworks.io",
+    "industry": "Edtech",
+    "employee_count": 2981,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Marketing Manager",
+      "Product Manager",
+      "VP of Sales",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "MetaWorks raises $5M Series C funding",
+      "MetaWorks launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2013
+  },
+  {
+    "company": "LogicDigital",
+    "domain": "logicdigital.ai",
+    "industry": "Media",
+    "employee_count": 3054,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "LogicDigital raises $39M Series A funding",
+      "LogicDigital launches new analytics platform"
+    ],
+    "location": "New York",
+    "founded_year": 2021
+  },
+  {
+    "company": "NeoPlatform",
+    "domain": "neoplatform.ai",
+    "industry": "HR Tech",
+    "employee_count": 3571,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Product Manager",
+      "Growth Manager",
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "NeoPlatform raises $15M Series B funding",
+      "NeoPlatform launches new payment platform"
+    ],
+    "location": "New York",
+    "founded_year": 2014
+  },
+  {
+    "company": "UltraSoftware",
+    "domain": "ultrasoftware.tech",
+    "industry": "HR Tech",
+    "employee_count": 4022,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Revenue Operations",
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "UltraSoftware raises $4M Series B funding",
+      "UltraSoftware launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2023
+  },
+  {
+    "company": "UltraCorp",
+    "domain": "ultra.com",
+    "industry": "Edtech",
+    "employee_count": 2539,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Sales Director",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "UltraCorp raises $46M Series B funding",
+      "UltraCorp launches new payment platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2022
+  },
+  {
+    "company": "VisionAI",
+    "domain": "visionai.com",
+    "industry": "Media",
+    "employee_count": 3649,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "VisionAI raises $76M Series B funding",
+      "VisionAI launches new analytics platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2021
+  },
+  {
+    "company": "EdgeStudio",
+    "domain": "edgestudio.com",
+    "industry": "Marketing Tech",
+    "employee_count": 3699,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "DevOps Engineer",
+      "Head of Product",
+      "VP of Sales",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "EdgeStudio raises $78M Series A funding",
+      "EdgeStudio launches new payment platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2016
+  },
+  {
+    "company": "TitanCorp",
+    "domain": "titan.tech",
+    "industry": "CRM",
+    "employee_count": 27,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Engineering Manager",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "TitanCorp raises $27M Series B funding"
+    ],
+    "location": "Seattle",
+    "founded_year": 2014
+  },
+  {
+    "company": "JetInc",
+    "domain": "jet.co",
+    "industry": "CRM",
+    "employee_count": 1441,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Customer Success",
+      "Software Engineer",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "JetInc raises $61M Series A funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2018
+  },
+  {
+    "company": "EdgePlatform",
+    "domain": "edgeplatform.ai",
+    "industry": "Analytics",
+    "employee_count": 1217,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "EdgePlatform raises $7M Series B funding",
+      "EdgePlatform launches new billing platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2017
+  },
+  {
+    "company": "UnityDigital",
+    "domain": "unitydigital.com",
+    "industry": "Security",
+    "employee_count": 3831,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Sales Director",
+      "Head of Product",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "UnityDigital raises $30M Series B funding",
+      "UnityDigital launches new analytics platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2014
+  },
+  {
+    "company": "OrbitHub",
+    "domain": "orbithub.tech",
+    "industry": "Gaming",
+    "employee_count": 3978,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Marketing Manager",
+      "Software Engineer",
+      "Data Scientist",
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2012
+  },
+  {
+    "company": "ZenPlatform",
+    "domain": "zenplatform.ai",
+    "industry": "Security",
+    "employee_count": 2308,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "ZenPlatform raises $45M Series B funding",
+      "ZenPlatform launches new payment platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2011
+  },
+  {
+    "company": "SmartHub",
+    "domain": "smarthub.ai",
+    "industry": "Supply Chain",
+    "employee_count": 1071,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Business Analyst",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "SmartHub raises $22M Series B funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2011
+  },
+  {
+    "company": "WaveInc",
+    "domain": "wave.tech",
+    "industry": "Healthtech",
+    "employee_count": 4148,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Marketing Manager",
+      "Finance Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2015
+  },
+  {
+    "company": "NexusAI",
+    "domain": "nexusai.co",
+    "industry": "HR Tech",
+    "employee_count": 4853,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "NexusAI raises $41M Series B funding",
+      "NexusAI launches new customer platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2022
+  },
+  {
+    "company": "PeakInc",
+    "domain": "peak.io",
+    "industry": "Marketing Tech",
+    "employee_count": 3781,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "PeakInc raises $97M Series B funding",
+      "PeakInc launches new billing platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2011
+  },
+  {
+    "company": "CoreSystems",
+    "domain": "coresystems.com",
+    "industry": "Healthtech",
+    "employee_count": 439,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "CoreSystems raises $24M Series C funding",
+      "CoreSystems launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2021
+  },
+  {
+    "company": "AcmeInc",
+    "domain": "acme.tech",
+    "industry": "Supply Chain",
+    "employee_count": 2305,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "DevOps Engineer",
+      "Product Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "AcmeInc raises $42M Series B funding",
+      "AcmeInc launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2013
+  },
+  {
+    "company": "TurboInc",
+    "domain": "turbo.com",
+    "industry": "Gaming",
+    "employee_count": 3917,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "TurboInc raises $81M Series C funding",
+      "TurboInc launches new payment platform"
+    ],
+    "location": "New York",
+    "founded_year": 2010
+  },
+  {
+    "company": "GridWorks",
+    "domain": "gridworks.com",
+    "industry": "SaaS",
+    "employee_count": 4666,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "Engineering Manager",
+      "Growth Manager",
+      "VP of Sales",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "GridWorks raises $45M Series A funding",
+      "GridWorks launches new payment platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2022
+  },
+  {
+    "company": "QuantumSystems",
+    "domain": "quantumsystems.co",
+    "industry": "HR Tech",
+    "employee_count": 1724,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "UI/UX Designer",
+      "Sales Director",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "QuantumSystems raises $48M Series A funding",
+      "QuantumSystems launches new analytics platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2018
+  },
+  {
+    "company": "HarborHub",
+    "domain": "harborhub.tech",
+    "industry": "Media",
+    "employee_count": 2594,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer"
+    ],
+    "news_mentions": [],
+    "location": "New York",
+    "founded_year": 2022
+  },
+  {
+    "company": "ImpactTech",
+    "domain": "impacttech.io",
+    "industry": "Edtech",
+    "employee_count": 3322,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Revenue Operations",
+      "Marketing Manager",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "ImpactTech raises $75M Series C funding",
+      "ImpactTech launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2017
+  },
+  {
+    "company": "HyperWorks",
+    "domain": "hyperworks.com",
+    "industry": "Media",
+    "employee_count": 2987,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Engineering Manager",
+      "Marketing Manager",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "HyperWorks raises $4M Series B funding",
+      "HyperWorks launches new payment platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2019
+  },
+  {
+    "company": "HyperSolutions",
+    "domain": "hypersolutions.tech",
+    "industry": "E-commerce",
+    "employee_count": 429,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Software Engineer"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2014
+  },
+  {
+    "company": "CoreHub",
+    "domain": "corehub.tech",
+    "industry": "Edtech",
+    "employee_count": 2904,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "CoreHub raises $81M Series B funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "OmniVentures",
+    "domain": "omniventures.com",
+    "industry": "Media",
+    "employee_count": 2988,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "OmniVentures raises $77M Series B funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "GridSoftware",
+    "domain": "gridsoftware.io",
+    "industry": "Productivity",
+    "employee_count": 1055,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Product Manager",
+      "Business Analyst",
+      "UI/UX Designer",
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2016
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.io",
+    "industry": "Gaming",
+    "employee_count": 3403,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "AlphaAI raises $33M Series A funding"
+    ],
+    "location": "New York",
+    "founded_year": 2013
+  },
+  {
+    "company": "XcelWorks",
+    "domain": "xcelworks.io",
+    "industry": "Security",
+    "employee_count": 2205,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer",
+      "Business Analyst",
+      "UI/UX Designer",
+      "Data Scientist",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [],
+    "location": "New York",
+    "founded_year": 2022
+  },
+  {
+    "company": "TurboSystems",
+    "domain": "turbosystems.io",
+    "industry": "Media",
+    "employee_count": 4621,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Product Manager",
+      "DevOps Engineer",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2018
+  },
+  {
+    "company": "PeakStudio",
+    "domain": "peakstudio.co",
+    "industry": "Productivity",
+    "employee_count": 3113,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Revenue Operations"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2019
+  },
+  {
+    "company": "OmniWorks",
+    "domain": "omniworks.tech",
+    "industry": "Gaming",
+    "employee_count": 3290,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "OmniWorks raises $28M Series B funding",
+      "OmniWorks launches new customer platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2015
+  },
+  {
+    "company": "BridgeLabs",
+    "domain": "bridgelabs.ai",
+    "industry": "Fintech",
+    "employee_count": 900,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "DevOps Engineer",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "BridgeLabs raises $65M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2023
+  },
+  {
+    "company": "ZenDigital",
+    "domain": "zendigital.tech",
+    "industry": "Edtech",
+    "employee_count": 2352,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Head of Product",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "ZenDigital raises $37M Series B funding"
+    ],
+    "location": "Seattle",
+    "founded_year": 2022
+  },
+  {
+    "company": "HarborWorks",
+    "domain": "harborworks.ai",
+    "industry": "HR Tech",
+    "employee_count": 72,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Head of Product"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2018
+  },
+  {
+    "company": "DataDigital",
+    "domain": "datadigital.co",
+    "industry": "SaaS",
+    "employee_count": 1870,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "DevOps Engineer",
+      "Sales Director",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "DataDigital raises $36M Series C funding",
+      "DataDigital launches new billing platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2021
+  },
+  {
+    "company": "NeoDigital",
+    "domain": "neodigital.ai",
+    "industry": "Edtech",
+    "employee_count": 3605,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "NeoDigital raises $74M Series B funding",
+      "NeoDigital launches new customer platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "AlphaSolutions",
+    "domain": "alphasolutions.ai",
+    "industry": "Media",
+    "employee_count": 2725,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "VP of Sales",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "AlphaSolutions raises $25M Series B funding",
+      "AlphaSolutions launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2023
+  },
+  {
+    "company": "OmniSystems",
+    "domain": "omnisystems.com",
+    "industry": "Gaming",
+    "employee_count": 4393,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Marketing Manager",
+      "Customer Success",
+      "Revenue Operations",
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "ImpactInc",
+    "domain": "impact.co",
+    "industry": "Supply Chain",
+    "employee_count": 3399,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "Finance Manager",
+      "Sales Director",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "ImpactInc raises $2M Series B funding",
+      "ImpactInc launches new customer platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2012
+  },
+  {
+    "company": "TurboLabs",
+    "domain": "turbolabs.ai",
+    "industry": "Healthtech",
+    "employee_count": 2168,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "TurboLabs raises $48M Series B funding",
+      "TurboLabs launches new payment platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2012
+  },
+  {
+    "company": "TurboLabs",
+    "domain": "turbolabs.tech",
+    "industry": "Real Estate Tech",
+    "employee_count": 2783,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer",
+      "Marketing Manager",
+      "Product Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2023
+  },
+  {
+    "company": "VisionWorks",
+    "domain": "visionworks.ai",
+    "industry": "E-commerce",
+    "employee_count": 95,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "VisionWorks raises $44M Series A funding",
+      "VisionWorks launches new analytics platform"
+    ],
+    "location": "New York",
+    "founded_year": 2016
+  },
+  {
+    "company": "ImpactStudio",
+    "domain": "impactstudio.co",
+    "industry": "Security",
+    "employee_count": 1877,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "UI/UX Designer",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "ImpactStudio raises $51M Series C funding",
+      "ImpactStudio launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2014
+  },
+  {
+    "company": "AlphaSoftware",
+    "domain": "alphasoftware.com",
+    "industry": "Fintech",
+    "employee_count": 42,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Finance Manager",
+      "Customer Success",
+      "Sales Director",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "AlphaSoftware raises $95M Series C funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2023
+  },
+  {
+    "company": "KeyCorp",
+    "domain": "key.co",
+    "industry": "Marketing Tech",
+    "employee_count": 2451,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Software Engineer",
+      "Revenue Operations",
+      "DevOps Engineer",
+      "Finance Manager"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2019
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.ai",
+    "industry": "Productivity",
+    "employee_count": 4195,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Marketing Manager",
+      "Product Manager",
+      "Business Analyst",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "QuantumVentures raises $75M Series A funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2010
+  },
+  {
+    "company": "FlowAI",
+    "domain": "flowai.com",
+    "industry": "Marketing Tech",
+    "employee_count": 2418,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "DevOps Engineer",
+      "DevOps Engineer",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "FlowAI raises $78M Series B funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2022
+  },
+  {
+    "company": "AcmeCorp",
+    "domain": "acme.tech",
+    "industry": "E-commerce",
+    "employee_count": 1665,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Finance Manager",
+      "DevOps Engineer",
+      "Customer Success",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "AcmeCorp raises $46M Series B funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "GridSoftware",
+    "domain": "gridsoftware.tech",
+    "industry": "Media",
+    "employee_count": 2902,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Software Engineer",
+      "Growth Manager",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "GridSoftware raises $14M Series C funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2010
+  },
+  {
+    "company": "HyperVentures",
+    "domain": "hyperventures.tech",
+    "industry": "Productivity",
+    "employee_count": 1176,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Business Analyst",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "HyperVentures raises $31M Series C funding",
+      "HyperVentures launches new payment platform"
+    ],
+    "location": "New York",
+    "founded_year": 2011
+  },
+  {
+    "company": "ApexSolutions",
+    "domain": "apexsolutions.co",
+    "industry": "Marketing Tech",
+    "employee_count": 3518,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "DevOps Engineer"
+    ],
+    "news_mentions": [
+      "ApexSolutions raises $36M Series C funding",
+      "ApexSolutions launches new billing platform"
+    ],
+    "location": "New York",
+    "founded_year": 2023
+  },
+  {
+    "company": "NexusWorks",
+    "domain": "nexusworks.io",
+    "industry": "Media",
+    "employee_count": 1005,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "UI/UX Designer",
+      "Finance Manager",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "NexusWorks raises $26M Series B funding",
+      "NexusWorks launches new billing platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2020
+  },
+  {
+    "company": "RadiusPlatform",
+    "domain": "radiusplatform.co",
+    "industry": "Healthtech",
+    "employee_count": 1980,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Marketing Manager",
+      "Growth Manager",
+      "Engineering Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "RadiusPlatform raises $56M Series B funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2015
+  },
+  {
+    "company": "HarborStudio",
+    "domain": "harborstudio.tech",
+    "industry": "Real Estate Tech",
+    "employee_count": 4165,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "DevOps Engineer",
+      "Finance Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2021
+  },
+  {
+    "company": "GammaTech",
+    "domain": "gammatech.tech",
+    "industry": "Security",
+    "employee_count": 1836,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "GammaTech raises $76M Series B funding",
+      "GammaTech launches new billing platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2020
+  },
+  {
+    "company": "UltraCorp",
+    "domain": "ultra.io",
+    "industry": "Edtech",
+    "employee_count": 197,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "UltraCorp raises $52M Series B funding",
+      "UltraCorp launches new billing platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2011
+  },
+  {
+    "company": "NeoCorp",
+    "domain": "neo.io",
+    "industry": "Gaming",
+    "employee_count": 3405,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "NeoCorp raises $75M Series C funding",
+      "NeoCorp launches new billing platform"
+    ],
+    "location": "New York",
+    "founded_year": 2012
+  },
+  {
+    "company": "SphereLabs",
+    "domain": "spherelabs.co",
+    "industry": "Gaming",
+    "employee_count": 4863,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2015
+  },
+  {
+    "company": "FusionSystems",
+    "domain": "fusionsystems.com",
+    "industry": "Healthtech",
+    "employee_count": 20,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Product Manager",
+      "Head of Product"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2021
+  },
+  {
+    "company": "ApexSystems",
+    "domain": "apexsystems.tech",
+    "industry": "Productivity",
+    "employee_count": 1000,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Business Analyst",
+      "Revenue Operations"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2010
+  },
+  {
+    "company": "EchoHub",
+    "domain": "echohub.tech",
+    "industry": "Security",
+    "employee_count": 701,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "VP of Sales",
+      "Business Analyst"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2016
+  },
+  {
+    "company": "OrbitInc",
+    "domain": "orbit.ai",
+    "industry": "SaaS",
+    "employee_count": 1196,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Sales Director",
+      "Marketing Manager",
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "OrbitInc raises $34M Series A funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2023
+  },
+  {
+    "company": "YieldCorp",
+    "domain": "yield.com",
+    "industry": "Edtech",
+    "employee_count": 1948,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Marketing Manager",
+      "Business Analyst",
+      "Product Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "YieldCorp raises $74M Series A funding",
+      "YieldCorp launches new billing platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2016
+  },
+  {
+    "company": "AlphaAI",
+    "domain": "alphaai.com",
+    "industry": "Real Estate Tech",
+    "employee_count": 396,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "DevOps Engineer",
+      "Product Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2019
+  },
+  {
+    "company": "SmartSoftware",
+    "domain": "smartsoftware.tech",
+    "industry": "Healthtech",
+    "employee_count": 989,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "SmartSoftware raises $69M Series C funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2023
+  },
+  {
+    "company": "BridgeSystems",
+    "domain": "bridgesystems.com",
+    "industry": "Gaming",
+    "employee_count": 4998,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Business Analyst",
+      "UI/UX Designer",
+      "Head of Product",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "BridgeSystems raises $14M Series C funding",
+      "BridgeSystems launches new customer platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2014
+  },
+  {
+    "company": "MetaInc",
+    "domain": "meta.com",
+    "industry": "Real Estate Tech",
+    "employee_count": 2274,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "Sales Director",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "MetaInc raises $55M Series A funding"
+    ],
+    "location": "New York",
+    "founded_year": 2015
+  },
+  {
+    "company": "VisionCorp",
+    "domain": "vision.co",
+    "industry": "E-commerce",
+    "employee_count": 173,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "VisionCorp raises $26M Series A funding",
+      "VisionCorp launches new customer platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2010
+  },
+  {
+    "company": "InfiniteDigital",
+    "domain": "infinitedigital.io",
+    "industry": "Analytics",
+    "employee_count": 4796,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Head of Product",
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "InfiniteDigital raises $15M Series A funding",
+      "InfiniteDigital launches new billing platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2020
+  },
+  {
+    "company": "VertexHub",
+    "domain": "vertexhub.com",
+    "industry": "Fintech",
+    "employee_count": 1397,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "VertexHub raises $41M Series A funding",
+      "VertexHub launches new customer platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2015
+  },
+  {
+    "company": "NexusSolutions",
+    "domain": "nexussolutions.co",
+    "industry": "Real Estate Tech",
+    "employee_count": 196,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Customer Success"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2011
+  },
+  {
+    "company": "AcmeHub",
+    "domain": "acmehub.co",
+    "industry": "HR Tech",
+    "employee_count": 3422,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Software Engineer"
+    ],
+    "news_mentions": [],
+    "location": "New York",
+    "founded_year": 2022
+  },
+  {
+    "company": "TitanDigital",
+    "domain": "titandigital.com",
+    "industry": "HR Tech",
+    "employee_count": 271,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "TitanDigital raises $16M Series B funding"
+    ],
+    "location": "Seattle",
+    "founded_year": 2021
+  },
+  {
+    "company": "SphereInc",
+    "domain": "sphere.com",
+    "industry": "Edtech",
+    "employee_count": 2494,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "SphereInc raises $86M Series B funding",
+      "SphereInc launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2014
+  },
+  {
+    "company": "PrimeAI",
+    "domain": "primeai.co",
+    "industry": "Gaming",
+    "employee_count": 786,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "Engineering Manager",
+      "Finance Manager",
+      "UI/UX Designer",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "PrimeAI raises $79M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2020
+  },
+  {
+    "company": "JetPlatform",
+    "domain": "jetplatform.co",
+    "industry": "Real Estate Tech",
+    "employee_count": 2211,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Engineering Manager",
+      "UI/UX Designer",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2012
+  },
+  {
+    "company": "ApexLabs",
+    "domain": "apexlabs.com",
+    "industry": "HR Tech",
+    "employee_count": 2965,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "ApexLabs raises $25M Series A funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2020
+  },
+  {
+    "company": "InfiniteWorks",
+    "domain": "infiniteworks.ai",
+    "industry": "Fintech",
+    "employee_count": 3173,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Data Scientist",
+      "Revenue Operations",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2022
+  },
+  {
+    "company": "OrbitSystems",
+    "domain": "orbitsystems.com",
+    "industry": "Fintech",
+    "employee_count": 1171,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Revenue Operations",
+      "Growth Manager",
+      "DevOps Engineer",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "OrbitSystems raises $25M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2015
+  },
+  {
+    "company": "QuestDigital",
+    "domain": "questdigital.io",
+    "industry": "Media",
+    "employee_count": 4428,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "QuestDigital raises $16M Series A funding",
+      "QuestDigital launches new payment platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2015
+  },
+  {
+    "company": "BetaDigital",
+    "domain": "betadigital.co",
+    "industry": "Marketing Tech",
+    "employee_count": 3751,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Finance Manager",
+      "Engineering Manager",
+      "VP of Sales",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "BetaDigital raises $72M Series C funding"
+    ],
+    "location": "Seattle",
+    "founded_year": 2015
+  },
+  {
+    "company": "XcelWorks",
+    "domain": "xcelworks.co",
+    "industry": "Edtech",
+    "employee_count": 2604,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer",
+      "Engineering Manager",
+      "Customer Success",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "XcelWorks raises $34M Series B funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2021
+  },
+  {
+    "company": "HyperDigital",
+    "domain": "hyperdigital.ai",
+    "industry": "Marketing Tech",
+    "employee_count": 1242,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "VP of Sales",
+      "Business Analyst",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "HyperDigital raises $59M Series B funding",
+      "HyperDigital launches new billing platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2016
+  },
+  {
+    "company": "WaveStudio",
+    "domain": "wavestudio.ai",
+    "industry": "Edtech",
+    "employee_count": 1787,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Revenue Operations",
+      "Head of Product",
+      "VP of Sales",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "WaveStudio raises $78M Series B funding"
+    ],
+    "location": "New York",
+    "founded_year": 2015
+  },
+  {
+    "company": "KeyAI",
+    "domain": "keyai.io",
+    "industry": "CRM",
+    "employee_count": 4298,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "KeyAI raises $4M Series A funding",
+      "KeyAI launches new billing platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2016
+  },
+  {
+    "company": "NexusStudio",
+    "domain": "nexusstudio.io",
+    "industry": "Marketing Tech",
+    "employee_count": 3627,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "NexusStudio raises $60M Series C funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2016
+  },
+  {
+    "company": "JetAI",
+    "domain": "jetai.com",
+    "industry": "Gaming",
+    "employee_count": 4923,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "JetAI raises $76M Series C funding",
+      "JetAI launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "SmartStudio",
+    "domain": "smartstudio.ai",
+    "industry": "Analytics",
+    "employee_count": 3403,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "UI/UX Designer",
+      "Data Scientist",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "SmartStudio raises $23M Series B funding"
+    ],
+    "location": "New York",
+    "founded_year": 2010
+  },
+  {
+    "company": "TurboSystems",
+    "domain": "turbosystems.com",
+    "industry": "Fintech",
+    "employee_count": 98,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "VP of Sales",
+      "Customer Success",
+      "Head of Product"
+    ],
+    "news_mentions": [],
+    "location": "San Francisco",
+    "founded_year": 2011
+  },
+  {
+    "company": "UnitySoftware",
+    "domain": "unitysoftware.co",
+    "industry": "Gaming",
+    "employee_count": 2504,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Marketing Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2014
+  },
+  {
+    "company": "PrimeSystems",
+    "domain": "primesystems.tech",
+    "industry": "CRM",
+    "employee_count": 4909,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "PrimeSystems raises $49M Series A funding",
+      "PrimeSystems launches new analytics platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "HarborSoftware",
+    "domain": "harborsoftware.tech",
+    "industry": "Security",
+    "employee_count": 2407,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Head of Product",
+      "Engineering Manager",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "HarborSoftware raises $21M Series C funding",
+      "HarborSoftware launches new payment platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2022
+  },
+  {
+    "company": "FlowCorp",
+    "domain": "flow.tech",
+    "industry": "HR Tech",
+    "employee_count": 203,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Marketing Manager",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "FlowCorp raises $6M Series C funding",
+      "FlowCorp launches new payment platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2013
+  },
+  {
+    "company": "SmartTech",
+    "domain": "smarttech.co",
+    "industry": "Real Estate Tech",
+    "employee_count": 343,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Growth Manager",
+      "Marketing Manager",
+      "Engineering Manager",
+      "Business Analyst"
+    ],
+    "news_mentions": [
+      "SmartTech raises $44M Series C funding",
+      "SmartTech launches new analytics platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "SmartStudio",
+    "domain": "smartstudio.ai",
+    "industry": "Marketing Tech",
+    "employee_count": 2388,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Ruby on Rails",
+      "Ruby",
+      "MySQL",
+      "Heroku"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "Engineering Manager",
+      "Sales Director",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "SmartStudio raises $50M Series C funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2021
+  },
+  {
+    "company": "QuestWorks",
+    "domain": "questworks.tech",
+    "industry": "Analytics",
+    "employee_count": 1708,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "DevOps Engineer",
+      "Growth Manager",
+      "UI/UX Designer"
+    ],
+    "news_mentions": [],
+    "location": "Austin",
+    "founded_year": 2014
+  },
+  {
+    "company": "CoreVentures",
+    "domain": "coreventures.tech",
+    "industry": "Real Estate Tech",
+    "employee_count": 1593,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "UI/UX Designer",
+      "Marketing Manager",
+      "Head of Product"
+    ],
+    "news_mentions": [],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "GammaStudio",
+    "domain": "gammastudio.com",
+    "industry": "E-commerce",
+    "employee_count": 2702,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Head of Product",
+      "Marketing Manager",
+      "Data Scientist",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "GammaStudio raises $90M Series A funding",
+      "GammaStudio launches new payment platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2020
+  },
+  {
+    "company": "TurboStudio",
+    "domain": "turbostudio.com",
+    "industry": "Real Estate Tech",
+    "employee_count": 3771,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "TurboStudio raises $18M Series B funding"
+    ],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "InfiniteSolutions",
+    "domain": "infinitesolutions.io",
+    "industry": "HR Tech",
+    "employee_count": 2072,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Head of Product",
+      "UI/UX Designer",
+      "Customer Success",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "InfiniteSolutions raises $83M Series C funding"
+    ],
+    "location": "Boston",
+    "founded_year": 2018
+  },
+  {
+    "company": "QuantumVentures",
+    "domain": "quantumventures.tech",
+    "industry": "Healthtech",
+    "employee_count": 592,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "QuantumVentures raises $9M Series A funding"
+    ],
+    "location": "New York",
+    "founded_year": 2016
+  },
+  {
+    "company": "YieldDigital",
+    "domain": "yielddigital.tech",
+    "industry": "CRM",
+    "employee_count": 4588,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Engineering Manager",
+      "Head of Product",
+      "Marketing Manager"
+    ],
+    "news_mentions": [
+      "YieldDigital raises $6M Series B funding",
+      "YieldDigital launches new analytics platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2014
+  },
+  {
+    "company": "GridWorks",
+    "domain": "gridworks.tech",
+    "industry": "Security",
+    "employee_count": 2580,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "GridWorks raises $68M Series C funding",
+      "GridWorks launches new customer platform"
+    ],
+    "location": "New York",
+    "founded_year": 2019
+  },
+  {
+    "company": "QuestSolutions",
+    "domain": "questsolutions.io",
+    "industry": "Gaming",
+    "employee_count": 1804,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "Engineering Manager",
+      "VP of Sales"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2019
+  },
+  {
+    "company": "GammaLabs",
+    "domain": "gammalabs.com",
+    "industry": "Security",
+    "employee_count": 3487,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Data Scientist"
+    ],
+    "news_mentions": [
+      "GammaLabs raises $62M Series B funding",
+      "GammaLabs launches new payment platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2023
+  },
+  {
+    "company": "ZenWorks",
+    "domain": "zenworks.io",
+    "industry": "Analytics",
+    "employee_count": 2050,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Business Analyst",
+      "Customer Success",
+      "Software Engineer"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2021
+  },
+  {
+    "company": "FlowCorp",
+    "domain": "flow.com",
+    "industry": "Fintech",
+    "employee_count": 403,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "DevOps Engineer"
+    ],
+    "news_mentions": [
+      "FlowCorp raises $31M Series C funding",
+      "FlowCorp launches new payment platform"
+    ],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "PeakSystems",
+    "domain": "peaksystems.com",
+    "industry": "Security",
+    "employee_count": 3403,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Express",
+      "Node.js",
+      "MongoDB",
+      "Netlify"
+    ],
+    "hiring_signals": [
+      "Engineering Manager"
+    ],
+    "news_mentions": [],
+    "location": "Remote",
+    "founded_year": 2014
+  },
+  {
+    "company": "CloudLabs",
+    "domain": "cloudlabs.co",
+    "industry": "Edtech",
+    "employee_count": 1216,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "CloudLabs raises $82M Series C funding",
+      "CloudLabs launches new billing platform"
+    ],
+    "location": "New York",
+    "founded_year": 2018
+  },
+  {
+    "company": "PrimeWorks",
+    "domain": "primeworks.co",
+    "industry": "Gaming",
+    "employee_count": 3157,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Product Manager",
+      "Engineering Manager",
+      "Growth Manager",
+      "Sales Director"
+    ],
+    "news_mentions": [
+      "PrimeWorks raises $28M Series A funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2016
+  },
+  {
+    "company": "PrimeWorks",
+    "domain": "primeworks.io",
+    "industry": "Analytics",
+    "employee_count": 3669,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "DigitalOcean"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "VP of Sales",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "PrimeWorks raises $71M Series A funding",
+      "PrimeWorks launches new payment platform"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2012
+  },
+  {
+    "company": "NexusPlatform",
+    "domain": "nexusplatform.tech",
+    "industry": "CRM",
+    "employee_count": 4002,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Software Engineer",
+      "Product Manager",
+      "VP of Sales",
+      "Finance Manager",
+      "Growth Manager"
+    ],
+    "news_mentions": [],
+    "location": "Boston",
+    "founded_year": 2015
+  },
+  {
+    "company": "LogicInc",
+    "domain": "logic.com",
+    "industry": "Healthtech",
+    "employee_count": 1733,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Engineering Manager",
+      "Data Scientist",
+      "VP of Sales",
+      "Product Manager"
+    ],
+    "news_mentions": [
+      "LogicInc raises $10M Series C funding",
+      "LogicInc launches new customer platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2010
+  },
+  {
+    "company": "FusionSystems",
+    "domain": "fusionsystems.io",
+    "industry": "CRM",
+    "employee_count": 4128,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "VP of Sales",
+      "Product Manager",
+      "DevOps Engineer",
+      "Sales Director"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2017
+  },
+  {
+    "company": "QuestWorks",
+    "domain": "questworks.tech",
+    "industry": "SaaS",
+    "employee_count": 2618,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer"
+    ],
+    "news_mentions": [
+      "QuestWorks raises $31M Series B funding",
+      "QuestWorks launches new customer platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "VisionWorks",
+    "domain": "visionworks.co",
+    "industry": "Real Estate Tech",
+    "employee_count": 2387,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Sales Director",
+      "Software Engineer"
+    ],
+    "news_mentions": [
+      "VisionWorks raises $87M Series B funding",
+      "VisionWorks launches new customer platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2022
+  },
+  {
+    "company": "OmniWorks",
+    "domain": "omniworks.tech",
+    "industry": "Productivity",
+    "employee_count": 781,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Finance Manager",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "OmniWorks raises $57M Series A funding",
+      "OmniWorks launches new customer platform"
+    ],
+    "location": "Remote",
+    "founded_year": 2017
+  },
+  {
+    "company": "PrimeInc",
+    "domain": "prime.tech",
+    "industry": "Supply Chain",
+    "employee_count": 4460,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Vue.js",
+      "Python",
+      "MySQL",
+      "GCP"
+    ],
+    "hiring_signals": [
+      "UI/UX Designer",
+      "Business Analyst",
+      "Product Manager",
+      "Data Scientist",
+      "Finance Manager"
+    ],
+    "news_mentions": [
+      "PrimeInc raises $58M Series B funding",
+      "PrimeInc launches new billing platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2017
+  },
+  {
+    "company": "HyperWorks",
+    "domain": "hyperworks.tech",
+    "industry": "Supply Chain",
+    "employee_count": 857,
+    "funding_stage": "Series B",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "Growth Manager",
+      "Revenue Operations",
+      "Engineering Manager",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "HyperWorks raises $9M Series A funding"
+    ],
+    "location": "San Francisco",
+    "founded_year": 2011
+  },
+  {
+    "company": "XcelSolutions",
+    "domain": "xcelsolutions.tech",
+    "industry": "Productivity",
+    "employee_count": 2566,
+    "funding_stage": "Seed",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Growth Manager",
+      "UI/UX Designer",
+      "Customer Success",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "XcelSolutions raises $85M Series C funding",
+      "XcelSolutions launches new customer platform"
+    ],
+    "location": "Seattle",
+    "founded_year": 2020
+  },
+  {
+    "company": "EdgePlatform",
+    "domain": "edgeplatform.tech",
+    "industry": "E-commerce",
+    "employee_count": 3055,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Sales Director",
+      "Data Scientist",
+      "Sales Director",
+      "Revenue Operations"
+    ],
+    "news_mentions": [
+      "EdgePlatform raises $89M Series C funding",
+      "EdgePlatform launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2021
+  },
+  {
+    "company": "UnityHub",
+    "domain": "unityhub.io",
+    "industry": "Healthtech",
+    "employee_count": 847,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Next.js",
+      "TypeScript",
+      "Redis",
+      "Kubernetes"
+    ],
+    "hiring_signals": [
+      "Data Scientist",
+      "DevOps Engineer",
+      "Head of Product"
+    ],
+    "news_mentions": [
+      "UnityHub raises $85M Series A funding",
+      "UnityHub launches new billing platform"
+    ],
+    "location": "Boston",
+    "founded_year": 2012
+  },
+  {
+    "company": "DeltaCorp",
+    "domain": "delta.tech",
+    "industry": "Supply Chain",
+    "employee_count": 2927,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Data Scientist",
+      "Product Manager",
+      "Head of Product",
+      "DevOps Engineer"
+    ],
+    "news_mentions": [],
+    "location": "Seattle",
+    "founded_year": 2010
+  },
+  {
+    "company": "EdgeTech",
+    "domain": "edgetech.ai",
+    "industry": "Supply Chain",
+    "employee_count": 366,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Flask",
+      "Python",
+      "SQLite",
+      "Vercel"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "Customer Success",
+      "Growth Manager",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "EdgeTech raises $20M Series B funding"
+    ],
+    "location": "Remote",
+    "founded_year": 2016
+  },
+  {
+    "company": "FlowVentures",
+    "domain": "flowventures.co",
+    "industry": "Analytics",
+    "employee_count": 3940,
+    "funding_stage": "Public",
+    "tech_stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "Software Engineer",
+      "Growth Manager"
+    ],
+    "news_mentions": [
+      "FlowVentures raises $15M Series C funding"
+    ],
+    "location": "New York",
+    "founded_year": 2016
+  },
+  {
+    "company": "AlphaSystems",
+    "domain": "alphasystems.io",
+    "industry": "Analytics",
+    "employee_count": 872,
+    "funding_stage": "Series C",
+    "tech_stack": [
+      "Spring Boot",
+      "Java",
+      "Oracle",
+      "AWS"
+    ],
+    "hiring_signals": [
+      "Product Manager",
+      "DevOps Engineer",
+      "UI/UX Designer",
+      "Sales Director",
+      "Engineering Manager"
+    ],
+    "news_mentions": [
+      "AlphaSystems raises $4M Series C funding",
+      "AlphaSystems launches new payment platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2019
+  },
+  {
+    "company": "CloudSoftware",
+    "domain": "cloudsoftware.tech",
+    "industry": "Productivity",
+    "employee_count": 1883,
+    "funding_stage": "Series A",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Business Analyst",
+      "VP of Sales"
+    ],
+    "news_mentions": [
+      "CloudSoftware raises $8M Series A funding",
+      "CloudSoftware launches new customer platform"
+    ],
+    "location": "Austin",
+    "founded_year": 2013
+  },
+  {
+    "company": "BetaSoftware",
+    "domain": "betasoftware.tech",
+    "industry": "Healthtech",
+    "employee_count": 2945,
+    "funding_stage": "Growth",
+    "tech_stack": [
+      "Angular",
+      "Java",
+      "MongoDB",
+      "Azure"
+    ],
+    "hiring_signals": [
+      "Customer Success",
+      "Data Scientist",
+      "Customer Success"
+    ],
+    "news_mentions": [
+      "BetaSoftware raises $47M Series C funding"
+    ],
+    "location": "Austin",
+    "founded_year": 2017
+  }
+]
