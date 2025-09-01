@@ -16,6 +16,7 @@ from typing import Dict, List, Any
 # Import our modules for live processing
 from enrich.serp_api import LeadEnricher
 from score.scorer import LeadScorer
+from analysis.lead_clustering import LeadClusterer
 
 # Page configuration
 st.set_page_config(
@@ -189,7 +190,7 @@ def main():
         st.header("Navigation")
         mode = st.radio(
             "Choose Mode:",
-            ["Upload Results", "Live Processing"]
+            ["Upload Results", "Live Processing", "Clustering Analysis"]
         )
     
     if mode == "Upload Results":
@@ -406,7 +407,7 @@ def main():
                     # Scoring step
                     status_text.text(f"Scoring {company}...")
                     try:
-                        scored = scorer.score_company(company, enriched)
+                        scored = scorer.score_lead(enriched, template_name='recurly_template.txt')
                         results.append(scored)
                     except Exception as e:
                         st.warning(f"Warning: Error scoring {company}: {e}")
@@ -445,6 +446,168 @@ def main():
         
         else:
             st.info("Enter company names or upload a CSV to get started")
+    
+    elif mode == "Clustering Analysis":
+        st.header("🔍 Clustering Analysis")
+        st.markdown("Analyze and cluster your scored leads to identify patterns and target segments")
+        
+        uploaded_file = st.file_uploader(
+            "Upload scored JSON file for clustering", 
+            type=['json'],
+            help="Upload a JSON file with scored leads to perform clustering analysis"
+        )
+        
+        if uploaded_file is not None:
+            data = load_scored_data(uploaded_file)
+            
+            if data and len(data) >= 3:
+                st.success(f"Loaded {len(data)} scored leads")
+                
+                # Clustering options
+                col1, col2, col3 = st.columns(3)
+                
+                with col1:
+                    clustering_method = st.selectbox(
+                        "Clustering Method:",
+                        ['kmeans', 'hierarchical', 'dbscan'],
+                        help="Choose clustering algorithm"
+                    )
+                
+                with col2:
+                    n_clusters = st.number_input(
+                        "Number of Clusters (0 = auto-detect):",
+                        min_value=0,
+                        max_value=10,
+                        value=0,
+                        help="Leave as 0 to automatically determine optimal number"
+                    )
+                
+                with col3:
+                    random_seed = st.number_input(
+                        "Random Seed:",
+                        min_value=1,
+                        value=42,
+                        help="For reproducible results"
+                    )
+                
+                if st.button("🔍 Perform Clustering", type="primary"):
+                    with st.spinner("Performing clustering analysis..."):
+                        try:
+                            # Initialize clusterer
+                            clusterer = LeadClusterer(random_state=random_seed)
+                            
+                            # Perform clustering
+                            clusters = clusterer.cluster_leads(
+                                data, 
+                                method=clustering_method,
+                                n_clusters=n_clusters if n_clusters > 0 else None
+                            )
+                            
+                            if clusters:
+                                st.success(f"Successfully created {len(clusters)} clusters!")
+                                
+                                # Cluster overview
+                                st.header("📊 Cluster Overview")
+                                
+                                cluster_data = []
+                                for cluster_id, cluster in clusters.items():
+                                    cluster_data.append({
+                                        'Cluster': f"Cluster {cluster_id}",
+                                        'Label': cluster.cluster_label,
+                                        'Size': cluster.size,
+                                        'Avg Score': f"{cluster.avg_score:.1f}",
+                                        'Companies': ', '.join(cluster.companies[:3]) + ('...' if len(cluster.companies) > 3 else '')
+                                    })
+                                
+                                cluster_df = pd.DataFrame(cluster_data)
+                                st.dataframe(cluster_df, use_container_width=True)
+                                
+                                # Cluster visualization
+                                st.header("📈 Cluster Visualization")
+                                
+                                # Create cluster size chart
+                                fig_sizes = px.bar(
+                                    x=list(clusters.keys()),
+                                    y=[cluster.size for cluster in clusters.values()],
+                                    title="Cluster Sizes",
+                                    labels={'x': 'Cluster ID', 'y': 'Number of Companies'}
+                                )
+                                st.plotly_chart(fig_sizes, use_container_width=True)
+                                
+                                # Create cluster score comparison
+                                fig_scores = px.bar(
+                                    x=[f"Cluster {cid}" for cid in clusters.keys()],
+                                    y=[cluster.avg_score for cluster in clusters.values()],
+                                    title="Average Cluster Scores",
+                                    labels={'x': 'Cluster', 'y': 'Average Score'}
+                                )
+                                st.plotly_chart(fig_scores, use_container_width=True)
+                                
+                                # Detailed cluster insights
+                                st.header("🎯 Detailed Cluster Insights")
+                                
+                                for cluster_id in sorted(clusters.keys()):
+                                    cluster = clusters[cluster_id]
+                                    insights = clusterer.get_cluster_insights(cluster_id)
+                                    
+                                    with st.expander(f"🔍 {cluster.cluster_label} (Score: {cluster.avg_score:.1f})"):
+                                        col1, col2 = st.columns([1, 1])
+                                        
+                                        with col1:
+                                            st.markdown(f"**Companies ({cluster.size}):**")
+                                            for company in cluster.companies:
+                                                st.markdown(f"• {company}")
+                                            
+                                            st.markdown(f"**Common Themes:**")
+                                            for theme in insights['cluster_info']['common_themes'][:5]:
+                                                st.markdown(f"• {theme}")
+                                        
+                                        with col2:
+                                            st.markdown(f"**🎯 Recommendations:**")
+                                            for i, rec in enumerate(insights['recommendations'], 1):
+                                                st.markdown(f"{i}. {rec}")
+                                            
+                                            st.markdown(f"**📋 Next Steps:**")
+                                            for i, step in enumerate(insights['next_steps'], 1):
+                                                st.markdown(f"{i}. {step}")
+                                
+                                # Export clustering results
+                                st.header("💾 Export Results")
+                                
+                                # Generate cluster export data
+                                cluster_export = {}
+                                for cluster_id, cluster in clusters.items():
+                                    insights = clusterer.get_cluster_insights(cluster_id)
+                                    cluster_export[f"cluster_{cluster_id}"] = {
+                                        'cluster_label': cluster.cluster_label,
+                                        'size': cluster.size,
+                                        'avg_score': cluster.avg_score,
+                                        'companies': cluster.companies,
+                                        'common_themes': insights['cluster_info']['common_themes'],
+                                        'recommendations': insights['recommendations'],
+                                        'next_steps': insights['next_steps']
+                                    }
+                                
+                                cluster_json = json.dumps(cluster_export, indent=2)
+                                st.download_button(
+                                    label="📊 Download Cluster Analysis",
+                                    data=cluster_json,
+                                    file_name="cluster_analysis.json",
+                                    mime="application/json"
+                                )
+                                
+                            else:
+                                st.error("No clusters were generated. Try adjusting the parameters or method.")
+                                
+                        except Exception as e:
+                            st.error(f"Clustering failed: {e}")
+                            st.exception(e)
+            
+            elif data and len(data) < 3:
+                st.warning("Need at least 3 scored leads to perform clustering analysis")
+            
+            else:
+                st.error("No valid data found in the uploaded file")
 
 if __name__ == "__main__":
     main()
