@@ -18,6 +18,9 @@ from enrich.serp_api import LeadEnricher
 from score.scorer import LeadScorer
 from analysis.lead_clustering import LeadClusterer
 from analytics.team_analytics import TeamAnalyticsEngine
+from analytics.multi_tenant_analytics import MultiTenantAnalyticsEngine
+from auth.auth_ui import require_authentication, handle_authenticated_navigation
+from auth.user_manager import get_current_user
 
 # Page configuration
 st.set_page_config(
@@ -950,4 +953,13 @@ def main():
             st.exception(e)
 
 if __name__ == "__main__":
+    # Check authentication first
+    if not require_authentication():
+        st.stop()
+    
+    # Handle authenticated user navigation
+    if handle_authenticated_navigation():
+        st.stop()
+    
+    # Run main dashboard
     main()
