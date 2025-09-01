@@ -17,6 +17,7 @@ from typing import Dict, List, Any
 from enrich.serp_api import LeadEnricher
 from score.scorer import LeadScorer
 from analysis.lead_clustering import LeadClusterer
+from analytics.team_analytics import TeamAnalyticsEngine
 
 # Page configuration
 st.set_page_config(
@@ -190,7 +191,7 @@ def main():
         st.header("Navigation")
         mode = st.radio(
             "Choose Mode:",
-            ["Upload Results", "Live Processing", "Clustering Analysis"]
+            ["Upload Results", "Live Processing", "Clustering Analysis", "Team Analytics"]
         )
     
     if mode == "Upload Results":
@@ -608,6 +609,345 @@ def main():
             
             else:
                 st.error("No valid data found in the uploaded file")
+    
+    elif mode == "Team Analytics":
+        st.header("📊 Team Analytics & Performance")
+        st.markdown("Comprehensive insights into team performance, trends, and lead quality over time")
+        
+        # Initialize analytics engine
+        try:
+            analytics_engine = TeamAnalyticsEngine()
+        except Exception as e:
+            st.error(f"Failed to initialize analytics engine: {e}")
+            return
+        
+        # Time period selection
+        col1, col2, col3 = st.columns(3)
+        
+        with col1:
+            time_period = st.selectbox(
+                "Analysis Period:",
+                [7, 14, 30, 60, 90],
+                index=2,
+                help="Number of days to analyze"
+            )
+        
+        with col2:
+            if st.button("🔄 Refresh Data"):
+                st.cache_data.clear()
+        
+        with col3:
+            # Record session option
+            uploaded_results = st.file_uploader(
+                "Add Results to Analytics",
+                type=['json'],
+                help="Upload scored results to add to team analytics"
+            )
+        
+        if uploaded_results:
+            try:
+                content = uploaded_results.read()
+                results_data = json.loads(content)
+                
+                # Get user name for session tracking
+                user_name = st.text_input("Your Name:", value="dashboard_user")
+                
+                if st.button("📈 Record Session"):
+                    session_id = analytics_engine.record_processing_session(
+                        results=results_data,
+                        user=user_name,
+                        input_file=uploaded_results.name,
+                        processing_time=0.0
+                    )
+                    st.success(f"✅ Session recorded: {session_id}")
+                    st.cache_data.clear()
+                    
+            except Exception as e:
+                st.error(f"Error processing uploaded results: {e}")
+        
+        # Get performance metrics
+        try:
+            metrics = analytics_engine.get_team_performance_metrics(days_back=time_period)
+            insights = analytics_engine.get_lead_scoring_insights(days_back=time_period)
+            
+            if 'error' in metrics:
+                st.warning("📋 No team data available yet")
+                st.info("👆 Upload some scored results above to start building team analytics")
+                
+                # Show demo data option
+                if st.button("🎲 Generate Demo Data"):
+                    # Create some demo sessions
+                    demo_results = [
+                        {
+                            "company": "DemoTech",
+                            "domain": "demo.com",
+                            "score": 82,
+                            "priority": "High",
+                            "breakdown": {
+                                "industry_fit": 17,
+                                "scale_indicators": 15,
+                                "platform_maturity": 16,
+                                "growth_churn_challenges": 16,
+                                "revenue_sophistication": 18
+                            }
+                        },
+                        {
+                            "company": "StartupCorp",
+                            "domain": "startup.io",
+                            "score": 65,
+                            "priority": "Medium",
+                            "breakdown": {
+                                "industry_fit": 13,
+                                "scale_indicators": 12,
+                                "platform_maturity": 14,
+                                "growth_churn_challenges": 13,
+                                "revenue_sophistication": 13
+                            }
+                        }
+                    ]
+                    
+                    analytics_engine.record_processing_session(
+                        results=demo_results,
+                        user="demo_user",
+                        input_file="demo_data.csv",
+                        model_used="gpt-4-turbo",
+                        template_used="recurly_template.txt"
+                    )
+                    
+                    st.success("✅ Demo data created! Refresh to see analytics.")
+                    st.rerun()
+                    
+                return
+            
+            # Executive Summary
+            st.header("📊 Executive Summary")
+            
+            col1, col2, col3, col4, col5 = st.columns(5)
+            
+            with col1:
+                st.metric(
+                    "Total Sessions",
+                    metrics['total_sessions'],
+                    help="Number of processing sessions in period"
+                )
+            
+            with col2:
+                st.metric(
+                    "Leads Processed",
+                    metrics['total_leads_processed'],
+                    help="Total leads processed across all sessions"
+                )
+            
+            with col3:
+                st.metric(
+                    "Success Rate",
+                    f"{metrics['avg_success_rate']*100:.1f}%",
+                    help="Average processing success rate"
+                )
+            
+            with col4:
+                st.metric(
+                    "High Priority Leads",
+                    metrics['total_high_priority'],
+                    help="Number of high-priority leads found"
+                )
+            
+            with col5:
+                st.metric(
+                    "Avg Processing Time",
+                    f"{metrics['avg_processing_time']:.1f}s",
+                    help="Average time per session"
+                )
+            
+            # Performance Charts
+            st.header("📈 Performance Analytics")
+            
+            try:
+                charts = analytics_engine.create_performance_charts(days_back=time_period)
+                
+                # Daily trends
+                if 'daily_trends' in charts:
+                    st.plotly_chart(charts['daily_trends'], use_container_width=True)
+                
+                col1, col2 = st.columns(2)
+                
+                # User performance
+                if 'user_performance' in charts:
+                    with col1:
+                        st.plotly_chart(charts['user_performance'], use_container_width=True)
+                
+                # Score distribution
+                if 'score_distribution' in charts:
+                    with col2:
+                        st.plotly_chart(charts['score_distribution'], use_container_width=True)
+                
+                # Dimension correlation
+                if 'dimension_correlation' in charts:
+                    st.plotly_chart(charts['dimension_correlation'], use_container_width=True)
+                    
+            except Exception as e:
+                st.warning(f"Could not generate charts: {e}")
+            
+            # Team Performance Details
+            st.header("👥 Team Performance")
+            
+            if 'user_performance' in metrics and metrics['user_performance']:
+                user_data = []
+                for user, stats in metrics['user_performance'].items():
+                    user_data.append({
+                        'User': user,
+                        'Sessions': stats['session_id'],
+                        'Leads Processed': stats['processed_leads'],
+                        'Avg Success Rate': f"{stats['success_rate']*100:.1f}%",
+                        'Avg Score': f"{stats['avg_score']:.1f}",
+                        'High Priority Finds': stats['high_priority_count']
+                    })
+                
+                user_df = pd.DataFrame(user_data)
+                st.dataframe(user_df, use_container_width=True)
+            else:
+                st.info("No user performance data available")
+            
+            # Model & Template Analysis
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.subheader("🤖 Model Performance")
+                if 'model_performance' in metrics and metrics['model_performance']:
+                    model_data = []
+                    for model, stats in metrics['model_performance'].items():
+                        model_data.append({
+                            'Model': model,
+                            'Sessions': stats['session_id'],
+                            'Avg Score': f"{stats['avg_score']:.1f}",
+                            'Success Rate': f"{stats['success_rate']*100:.1f}%",
+                            'Avg Time': f"{stats['processing_time']:.1f}s"
+                        })
+                    
+                    model_df = pd.DataFrame(model_data)
+                    st.dataframe(model_df, use_container_width=True)
+                else:
+                    st.info("No model performance data")
+            
+            with col2:
+                st.subheader("📝 Template Performance")
+                if 'template_performance' in metrics and metrics['template_performance']:
+                    template_data = []
+                    for template, stats in metrics['template_performance'].items():
+                        template_data.append({
+                            'Template': template,
+                            'Sessions': stats['session_id'],
+                            'Avg Score': f"{stats['avg_score']:.1f}",
+                            'Success Rate': f"{stats['success_rate']*100:.1f}%"
+                        })
+                    
+                    template_df = pd.DataFrame(template_data)
+                    st.dataframe(template_df, use_container_width=True)
+                else:
+                    st.info("No template performance data")
+            
+            # Lead Quality Insights
+            st.header("🎯 Lead Quality Insights")
+            
+            if 'error' not in insights:
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    st.subheader("🏆 Top Performing Companies")
+                    if 'top_companies' in insights:
+                        top_df = pd.DataFrame(insights['top_companies'])
+                        st.dataframe(top_df, use_container_width=True)
+                
+                with col2:
+                    st.subheader("📊 Score Quality Distribution")
+                    if 'score_distribution' in insights:
+                        dist = insights['score_distribution']
+                        total = sum(dist.values())
+                        
+                        if total > 0:
+                            st.write(f"**High Quality (75+):** {dist['high']} ({dist['high']/total*100:.1f}%)")
+                            st.write(f"**Medium Quality (50-74):** {dist['medium']} ({dist['medium']/total*100:.1f}%)")
+                            st.write(f"**Low Quality (<50):** {dist['low']} ({dist['low']/total*100:.1f}%)")
+                
+                # Dimension insights
+                st.subheader("🔍 Scoring Dimension Analysis")
+                if 'dimension_analysis' in insights:
+                    dim_data = []
+                    for dim, stats in insights['dimension_analysis'].items():
+                        dim_data.append({
+                            'Dimension': dim.replace('_', ' ').title(),
+                            'Average Score': f"{stats['mean']:.1f}",
+                            'Std Deviation': f"{stats['std']:.2f}",
+                            'Correlation with Final Score': f"{stats['correlation_with_score']:.3f}"
+                        })
+                    
+                    dim_df = pd.DataFrame(dim_data)
+                    st.dataframe(dim_df, use_container_width=True)
+            
+            # Recommendations
+            st.header("💡 AI Recommendations")
+            
+            try:
+                report = analytics_engine.generate_performance_report(days_back=time_period)
+                if 'recommendations' in report:
+                    for i, rec in enumerate(report['recommendations'], 1):
+                        st.write(f"{i}. {rec}")
+                else:
+                    st.info("No specific recommendations at this time")
+            except Exception as e:
+                st.warning(f"Could not generate recommendations: {e}")
+            
+            # Export Options
+            st.header("📥 Export & Reports")
+            
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                if st.button("📊 Generate Full Report"):
+                    try:
+                        report = analytics_engine.generate_performance_report(days_back=time_period)
+                        report_json = json.dumps(report, indent=2, default=str)
+                        
+                        st.download_button(
+                            label="📄 Download Performance Report (JSON)",
+                            data=report_json,
+                            file_name=f"team_performance_report_{time_period}d.json",
+                            mime="application/json"
+                        )
+                        
+                        st.success("✅ Report generated successfully!")
+                    except Exception as e:
+                        st.error(f"Failed to generate report: {e}")
+            
+            with col2:
+                if st.button("📈 Export Analytics Data"):
+                    try:
+                        # Export session and lead data as CSV
+                        sessions_df = analytics_engine.db.get_sessions(time_period)
+                        leads_df = analytics_engine.db.get_leads(time_period)
+                        
+                        sessions_csv = sessions_df.to_csv(index=False)
+                        leads_csv = leads_df.to_csv(index=False)
+                        
+                        st.download_button(
+                            label="📊 Download Sessions Data (CSV)",
+                            data=sessions_csv,
+                            file_name=f"sessions_data_{time_period}d.csv",
+                            mime="text/csv"
+                        )
+                        
+                        st.download_button(
+                            label="🎯 Download Leads Data (CSV)",
+                            data=leads_csv,
+                            file_name=f"leads_data_{time_period}d.csv",
+                            mime="text/csv"
+                        )
+                    except Exception as e:
+                        st.error(f"Failed to export data: {e}")
+            
+        except Exception as e:
+            st.error(f"Analytics error: {e}")
+            st.exception(e)
 
 if __name__ == "__main__":
     main()
