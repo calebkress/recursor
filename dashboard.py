@@ -405,7 +405,7 @@ def main():
                     # Scoring step
                     status_text.text(f"Scoring {company}...")
                     try:
-                        scored = scorer.score_lead(enriched, template_name='recurly_template.txt')
+                        scored = scorer.score_company(company, enriched)
                         results.append(scored)
                     except Exception as e:
                         st.warning(f"Warning: Error scoring {company}: {e}")
