@@ -1,0 +1,116 @@
+[
+  {
+    "company": "Shopify",
+    "score": 75,
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 12,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Shopify operates in the SaaS and consumer goods industries, making it a good fit for Recurly's target customers.",
+      "There are clear signs of scaling indicators and billing complexity within Shopify's tech stack and hiring signals.",
+      "Shopify shows a need for advanced recurring revenue management and retention tools, indicating a potential fit with Recurly's platform."
+    ],
+    "justification": "Shopify scores well across all dimensions, demonstrating a strong alignment with Recurly's target market and value proposition.",
+    "priority": "High",
+    "next_steps": "Reach out to Shopify's product management and engineering teams to discuss potential integration opportunities and showcase how Recurly can help optimize their recurring revenue strategies."
+  },
+  {
+    "company": "Zoom",
+    "score": 80,
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 16
+    },
+    "summary": [
+      "Zoom is a strong fit for Recurly's target industries of SaaS and media, aligning well with their ideal customer profile.",
+      "There are clear indications of Zoom's growth into the mid-market to enterprise size, suggesting billing complexity that Recurly can help address.",
+      "Zoom shows signs of outgrowing basic billing platforms and a need for more advanced recurring revenue management tools."
+    ],
+    "justification": "Zoom scores well across all dimensions, demonstrating a strong alignment with Recurly's target customer profile and their need for flexible, scalable tools for recurring revenue optimization.",
+    "priority": "High",
+    "next_steps": "Reach out to Zoom's product management or finance team to discuss their billing challenges and how Recurly can help address them."
+  },
+  {
+    "company": "Netflix",
+    "score": 75,
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 15,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Netflix operates in the media industry with a subscription model, making it a perfect fit for Recurly's target customers.",
+      "The company is showing signs of scaling issues and billing complexity, indicating a need for a more advanced billing platform like Recurly.",
+      "Netflix's focus on retention and payment orchestration aligns with Recurly's offerings for recurring revenue optimization."
+    ],
+    "justification": "Netflix scores well across all dimensions, demonstrating a strong fit for Recurly's subscription billing platform based on their industry alignment, scaling challenges, and revenue optimization needs.",
+    "priority": "High",
+    "next_steps": "Reach out to Netflix's Product Management team to discuss how Recurly's platform can help optimize their subscription billing processes and improve revenue management."
+  },
+  {
+    "company": "Stripe",
+    "score": 75,
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 12
+    },
+    "summary": [
+      "Stripe operates in industries like SaaS and media, making it a good fit for Recurly's target customers.",
+      "There are hiring signals for roles related to business systems and accounting, indicating a need for more advanced billing solutions.",
+      "Recent acquisitions by Stripe show a focus on expanding capabilities, potentially indicating a need for more sophisticated billing tools."
+    ],
+    "justification": "Stripe scores well across most dimensions, showing strong alignment with Recurly's target market and potential needs. However, there is room for improvement in revenue sophistication.",
+    "priority": "Medium",
+    "next_steps": "Reach out to Stripe with a tailored pitch highlighting how Recurly's advanced recurring revenue management tools can help optimize their billing processes and drive growth."
+  },
+  {
+    "company": "Notion",
+    "score": 75,
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 10,
+      "platform_maturity": 10,
+      "growth_churn_challenges": 20,
+      "revenue_sophistication": 20
+    },
+    "summary": [
+      "Notion operates in the SaaS industry, making it a good fit for Recurly's target customers.",
+      "There are hiring signals for roles like Product Manager, Growth, indicating a focus on scaling and revenue optimization.",
+      "Notion's tech stack includes React, Node.js, and Postgres, showing platform maturity and potential need for more advanced billing tools."
+    ],
+    "justification": "Notion scores well across all dimensions, showing strong alignment with Recurly's target market and needs. The company's hiring signals and tech stack suggest a growing business with potential billing complexity and revenue optimization needs.",
+    "priority": "High",
+    "next_steps": "Reach out to Notion's revenue operations team to discuss their current billing challenges and explore how Recurly's platform can help optimize their recurring revenue."
+  },
+  {
+    "company": "Figma",
+    "score": 85,
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 17,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 15
+    },
+    "summary": [
+      "Figma operates in the SaaS industry, making it a good fit for Recurly's subscription billing platform.",
+      "The company is showing signs of scaling with a complex tech stack and a growing team.",
+      "There is evidence of billing complexity and a need for advanced recurring revenue management tools."
+    ],
+    "justification": "Figma scores high across all dimensions, indicating a strong fit for Recurly's platform. The company's growth, industry fit, and revenue sophistication align well with Recurly's target customers.",
+    "priority": "High",
+    "next_steps": "Reach out to Figma's product and finance teams to discuss how Recurly's platform can help optimize their recurring revenue and retention strategies."
+  }
+]

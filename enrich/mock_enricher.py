@@ -1,12 +1,11 @@
-# enrich/mock_enricher.py
 def enrich_companies(company_list):
-    enriched = []
-    for company in company_list:
-        enriched.append({
-            'company': company,
-            'snippets': [
-                f"{company} is hiring backend engineers",
-                f"{company} recently announced a new infrastructure initiative"
+    return [
+        {
+            "company": c,
+            "snippets": [
+                f"{c} is hiring PMs for infra.",
+                f"{c} added subscription features to their product."
             ]
-        })
-    return enriched
+        }
+        for c in company_list
+    ]
