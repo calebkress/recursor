@@ -165,7 +165,7 @@ class TeamAnalyticsDB:
         conn.close()
         
         if not df.empty:
-            df['timestamp'] = pd.to_datetime(df['timestamp'])
+            df['timestamp'] = pd.to_datetime(df['timestamp'], format='mixed')
         
         return df
     
@@ -183,7 +183,7 @@ class TeamAnalyticsDB:
         conn.close()
         
         if not df.empty:
-            df['timestamp'] = pd.to_datetime(df['timestamp'])
+            df['timestamp'] = pd.to_datetime(df['timestamp'], format='mixed')
         
         return df
 

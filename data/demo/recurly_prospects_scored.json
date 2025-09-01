@@ -1,0 +1,232 @@
+[
+  {
+    "company": "SubscribeBox",
+    "domain": "subscribebox.io",
+    "score": 100,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 16,
+      "revenue_sophistication": 14
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Perfect target: subscription-based business model. Good scale: sufficient team size for enterprise subscription management.",
+    "summary": [
+      "Revenue model: monthly recurring revenue, subscription billing",
+      "Growth stage: Series A funding",
+      "Tech stack includes: Shopify, React, PostgreSQL"
+    ],
+    "next_steps": "Share case studies from similar subscription businesses",
+    "industry": "E-commerce Subscription",
+    "employee_range": "50-200",
+    "description": "Monthly subscription boxes for niche hobbies and interests"
+  },
+  {
+    "company": "LearningPath",
+    "domain": "learningpath.com",
+    "score": 100,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 17,
+      "scale_indicators": 16,
+      "platform_maturity": 19,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 15
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Perfect target: subscription-based business model. Good scale: sufficient team size for enterprise subscription management. Enterprise ready: showing signs of enterprise market adoption.",
+    "summary": [
+      "Revenue model: SaaS metrics, monthly active users",
+      "Growth stage: bootstrapped profitability",
+      "Tech stack includes: Vue.js, Node.js, MongoDB"
+    ],
+    "next_steps": "Send Recurly ROI calculator and subscription billing guide",
+    "industry": "EdTech SaaS",
+    "employee_range": "100-500",
+    "description": "Online course platform with subscription-based access"
+  },
+  {
+    "company": "ContentCrafter",
+    "domain": "contentcrafter.ai",
+    "score": 100,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 18,
+      "scale_indicators": 18,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 15
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Enterprise ready: showing signs of enterprise market adoption.",
+    "summary": [
+      "Revenue model: API usage billing, credit-based system",
+      "Growth stage: AI content demand",
+      "Tech stack includes: Python, React, PostgreSQL"
+    ],
+    "next_steps": "Share case studies from similar subscription businesses",
+    "industry": "AI/ML SaaS",
+    "employee_range": "25-100",
+    "description": "AI-powered content generation with usage-based pricing"
+  },
+  {
+    "company": "TeamTracker",
+    "domain": "teamtracker.app",
+    "score": 100,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 19,
+      "scale_indicators": 18,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 16
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges.",
+    "summary": [
+      "Revenue model: per-user pricing, project-based billing",
+      "Growth stage: remote team adoption",
+      "Tech stack includes: Vue.js, Laravel, MySQL"
+    ],
+    "next_steps": "Connect with technical team to discuss integration requirements",
+    "industry": "Project Management SaaS",
+    "employee_range": "40-150",
+    "description": "Project management tool with flexible team pricing"
+  },
+  {
+    "company": "CloudSync",
+    "domain": "cloudsync.io",
+    "score": 99,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 15,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 18
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Good scale: sufficient team size for enterprise subscription management. Enterprise ready: showing signs of enterprise market adoption.",
+    "summary": [
+      "Revenue model: per-seat pricing, storage-based billing",
+      "Growth stage: remote work adoption",
+      "Tech stack includes: Go, React, PostgreSQL"
+    ],
+    "next_steps": "Share case studies from similar subscription businesses",
+    "industry": "Productivity SaaS",
+    "employee_range": "150-500",
+    "description": "File sync and collaboration tool for distributed teams"
+  },
+  {
+    "company": "StreamlineHR",
+    "domain": "streamlinehr.com",
+    "score": 99,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 19,
+      "revenue_sophistication": 14
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Good scale: sufficient team size for enterprise subscription management.",
+    "summary": [
+      "Revenue model: per-employee billing, annual contracts",
+      "Growth stage: mid-market focus",
+      "Tech stack includes: Angular, Java, MySQL"
+    ],
+    "next_steps": "Send Recurly ROI calculator and subscription billing guide",
+    "industry": "HR Tech SaaS",
+    "employee_range": "75-300",
+    "description": "HR management platform with per-employee pricing"
+  },
+  {
+    "company": "FitnessFlow",
+    "domain": "fitnessflow.app",
+    "score": 98,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 16,
+      "scale_indicators": 17,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 15,
+      "revenue_sophistication": 16
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Perfect target: subscription-based business model.",
+    "summary": [
+      "Revenue model: freemium model, premium subscriptions",
+      "Growth stage: 1M+ downloads",
+      "Tech stack includes: React Native, Firebase, Stripe"
+    ],
+    "next_steps": "Arrange demo focusing on subscription lifecycle management",
+    "industry": "Health & Wellness SaaS",
+    "employee_range": "25-100",
+    "description": "Fitness app with premium subscription tiers and personal training"
+  },
+  {
+    "company": "DataDash",
+    "domain": "datadash.co",
+    "score": 94,
+    "priority": "High",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 15,
+      "platform_maturity": 17,
+      "growth_churn_challenges": 14,
+      "revenue_sophistication": 18
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Good scale: sufficient team size for enterprise subscription management.",
+    "summary": [
+      "Revenue model: usage-based billing, enterprise contracts",
+      "Growth stage: Series B funding",
+      "Tech stack includes: Python, React, PostgreSQL"
+    ],
+    "next_steps": "Connect with technical team to discuss integration requirements",
+    "industry": "Data & Analytics SaaS",
+    "employee_range": "200-1000",
+    "description": "Business intelligence platform with usage-based pricing"
+  },
+  {
+    "company": "RetailRocket",
+    "domain": "retailrocket.com",
+    "score": 74,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 15,
+      "scale_indicators": 14,
+      "platform_maturity": 18,
+      "growth_churn_challenges": 17,
+      "revenue_sophistication": 17
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Good scale: sufficient team size for enterprise subscription management. Enterprise ready: showing signs of enterprise market adoption.",
+    "summary": [
+      "Revenue model: transaction-based pricing, revenue sharing",
+      "Growth stage: Shopify app store",
+      "Tech stack includes: Python, React, Redis"
+    ],
+    "next_steps": "Schedule discovery call to discuss current billing pain points",
+    "industry": "E-commerce Technology",
+    "employee_range": "100-400",
+    "description": "E-commerce personalization engine with transaction-based fees"
+  },
+  {
+    "company": "SecureVault",
+    "domain": "securevault.io",
+    "score": 73,
+    "priority": "Medium",
+    "breakdown": {
+      "industry_fit": 20,
+      "scale_indicators": 16,
+      "platform_maturity": 16,
+      "growth_churn_challenges": 13,
+      "revenue_sophistication": 18
+    },
+    "justification": "Strong fit: company has direct billing/payment complexity challenges. Good scale: sufficient team size for enterprise subscription management. Enterprise ready: showing signs of enterprise market adoption.",
+    "summary": [
+      "Revenue model: freemium conversion, enterprise security",
+      "Growth stage: security compliance",
+      "Tech stack includes: React, Node.js, MongoDB"
+    ],
+    "next_steps": "Share case studies from similar subscription businesses",
+    "industry": "Cybersecurity SaaS",
+    "employee_range": "50-200",
+    "description": "Password manager with team and enterprise plans"
+  }
+]

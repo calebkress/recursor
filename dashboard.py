@@ -30,15 +30,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS
+# Custom CSS for professional appearance
 st.markdown("""
 <style>
-.metric-card {
-    background-color: #f0f2f6;
-    padding: 1rem;
-    border-radius: 0.5rem;
-    border: 1px solid #e0e0e0;
-}
 .high-priority {
     background-color: #d4edda;
     color: #155724;
@@ -679,33 +673,68 @@ def main():
                 
                 # Show demo data option
                 if st.button("🎲 Generate Demo Data"):
-                    # Create some demo sessions
+                    # Create demo sessions with realistic SaaS companies that would be good Recurly prospects
                     demo_results = [
                         {
-                            "company": "DemoTech",
-                            "domain": "demo.com",
-                            "score": 82,
+                            "company": "StreamlineBox",
+                            "domain": "streamlinebox.com",
+                            "score": 87,
                             "priority": "High",
+                            "justification": "StreamlineBox is a perfect Recurly fit: B2B SaaS platform with subscription tiers, growing from 50k to 150k MRR, complex pricing with add-ons, and manual billing processes causing churn issues.",
                             "breakdown": {
-                                "industry_fit": 17,
-                                "scale_indicators": 15,
-                                "platform_maturity": 16,
-                                "growth_churn_challenges": 16,
-                                "revenue_sophistication": 18
-                            }
+                                "industry_fit": 18,
+                                "scale_indicators": 17,
+                                "platform_maturity": 17,
+                                "growth_churn_challenges": 18,
+                                "revenue_sophistication": 17
+                            },
+                            "summary": [
+                                "B2B SaaS with tiered subscriptions ($29-299/mo)",
+                                "Growing 20% MoM, 150K MRR",
+                                "Manual billing causing 8% involuntary churn",
+                                "Planning international expansion"
+                            ],
+                            "next_steps": "Schedule demo focused on dunning management and revenue recovery features"
                         },
                         {
-                            "company": "StartupCorp",
-                            "domain": "startup.io",
-                            "score": 65,
-                            "priority": "Medium",
+                            "company": "CodeCrafters Academy",
+                            "domain": "codecraftersacademy.io",
+                            "score": 79,
+                            "priority": "High",
+                            "justification": "Educational SaaS with subscription model, experiencing growth but struggling with billing complexity as they add corporate plans and international students.",
                             "breakdown": {
-                                "industry_fit": 13,
-                                "scale_indicators": 12,
+                                "industry_fit": 16,
+                                "scale_indicators": 15,
+                                "platform_maturity": 16,
+                                "growth_churn_challenges": 17,
+                                "revenue_sophistication": 15
+                            },
+                            "summary": [
+                                "Online learning platform with monthly/annual subscriptions",
+                                "5000+ active subscribers, expanding to corporate",
+                                "Need better dunning and international tax handling"
+                            ],
+                            "next_steps": "Connect with finance team about subscription billing automation"
+                        },
+                        {
+                            "company": "InventoryIQ",
+                            "domain": "inventoryiq.co",
+                            "score": 71,
+                            "priority": "Medium",
+                            "justification": "B2B inventory management SaaS with subscription model but currently using basic Stripe integration. Growth stage with revenue scaling needs.",
+                            "breakdown": {
+                                "industry_fit": 15,
+                                "scale_indicators": 14,
                                 "platform_maturity": 14,
-                                "growth_churn_challenges": 13,
-                                "revenue_sophistication": 13
-                            }
+                                "growth_churn_challenges": 14,
+                                "revenue_sophistication": 14
+                            },
+                            "summary": [
+                                "B2B inventory SaaS, $99-599/mo plans",
+                                "Basic Stripe setup, no advanced billing features",
+                                "Looking to add usage-based pricing"
+                            ],
+                            "next_steps": "Explore usage-based billing and metered pricing capabilities"
                         }
                     ]
                     

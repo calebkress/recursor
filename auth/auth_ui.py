@@ -53,28 +53,9 @@ def show_login_form():
     """Display login form"""
     st.title("🔐 Login to Recursor")
     
-    # Debug login option
-    with st.expander("🔧 Debug Login", expanded=False):
-        if st.button("Login as Test User"):
-            try:
-                user_manager = st.session_state.user_manager
-                token = user_manager.authenticate_user('test@example.com', 'password123')
-                
-                if token:
-                    user_id = user_manager.verify_token(token)
-                    user = user_manager.get_user(user_id)
-                    
-                    if user:
-                        st.session_state.user = user
-                        st.session_state.auth_token = token
-                        st.success(f"Debug login successful: {user.first_name} {user.last_name}")
-                        st.rerun()
-                    else:
-                        st.error("Failed to get user data")
-                else:
-                    st.error("Debug login failed")
-            except Exception as e:
-                st.error(f"Debug login error: {e}")
+    # Quick demo login info
+    with st.info("🎆 Demo: Login with any team member email (e.g., sarah@recursor.com) and password: password123"):
+        pass
     
     with st.form("login_form"):
         email = st.text_input("Email Address", placeholder="your@email.com")
@@ -384,13 +365,6 @@ def show_team_creation():
     except Exception as e:
         st.error(f"Failed to load teams: {e}")
     
-    # Quick debug info at the bottom
-    with st.expander("🔧 Debug Info"):
-        st.json({
-            "user_id": current_user.user_id,
-            "user_name": f"{current_user.first_name} {current_user.last_name}",
-            "session_keys": [k for k in st.session_state.keys() if 'team' in k.lower()]
-        })
 
 def show_team_management():
     """Display team management interface"""
