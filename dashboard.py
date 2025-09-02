@@ -21,6 +21,7 @@ from analytics.team_analytics import TeamAnalyticsEngine
 from analytics.multi_tenant_analytics import MultiTenantAnalyticsEngine
 from auth.auth_ui import require_authentication, handle_authenticated_navigation
 from auth.user_manager import get_current_user
+from ui.lead_pipeline_ui import integrate_with_dashboard, init_intelligence_state
 
 # Page configuration
 st.set_page_config(
@@ -183,6 +184,16 @@ def main():
     st.title("🎯 Recursor Lead Scoring Dashboard")
     st.markdown("Interactive visualization for lead enrichment and scoring results")
     
+    # Initialize lead intelligence
+    init_intelligence_state()
+    
+    # Get pipeline navigation functions
+    add_pipeline_nav, handle_pipeline_nav = integrate_with_dashboard()
+    
+    # Check if we should show pipeline views
+    if handle_pipeline_nav():
+        return
+    
     # Sidebar
     with st.sidebar:
         st.header("Navigation")
@@ -190,6 +201,9 @@ def main():
             "Choose Mode:",
             ["Upload Results", "Live Processing", "Clustering Analysis", "Team Analytics"]
         )
+        
+        # Add pipeline navigation
+        add_pipeline_nav()
     
     if mode == "Upload Results":
         st.header("Upload Scored Results")
@@ -204,6 +218,22 @@ def main():
             data = load_scored_data(uploaded_file)
             
             if data:
+                # Save to personal lead intelligence database
+                current_user = st.session_state.user
+                user_teams = st.session_state.user_manager.get_user_teams(current_user.user_id)
+                team_id = user_teams[0]['team_id'] if user_teams else None
+                
+                if team_id:
+                    intelligence = st.session_state.lead_intelligence
+                    session_id = intelligence.record_scoring_session(
+                        user_id=current_user.user_id,
+                        team_id=team_id,
+                        scored_results=data,
+                        session_type="file_upload",
+                        model_used="uploaded_file"
+                    )
+                    st.success(f"💾 {len(data)} companies saved to your personal lead database (Session: {session_id[:8]}...)")
+                
                 # Convert to DataFrame
                 df = pd.json_normalize(data)
                 
@@ -322,6 +352,25 @@ def main():
                             
                             if 'next_steps' in row and row['next_steps']:
                                 st.markdown(f"**Next Steps:** {row['next_steps']}")
+                
+                # Navigation to personal pipeline
+                st.header("🎯 Next Steps")
+                
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    if st.button("📊 View in My Pipeline", type="primary"):
+                        st.session_state.show_personal_pipeline = True
+                        st.rerun()
+                
+                with col2:
+                    json_results = json.dumps(data, indent=2)
+                    st.download_button(
+                        label="Download Results as JSON",
+                        data=json_results,
+                        file_name="uploaded_results.json",
+                        mime="application/json"
+                    )
     
     elif mode == "Live Processing":
         st.header("🚀 Live Processing")
@@ -425,6 +474,22 @@ def main():
                 if results:
                     st.success(f"Processed {len(results)} companies successfully!")
                     
+                    # Save to personal lead intelligence database
+                    current_user = st.session_state.user
+                    user_teams = st.session_state.user_manager.get_user_teams(current_user.user_id)
+                    team_id = user_teams[0]['team_id'] if user_teams else None
+                    
+                    if team_id:
+                        intelligence = st.session_state.lead_intelligence
+                        session_id = intelligence.record_scoring_session(
+                            user_id=current_user.user_id,
+                            team_id=team_id,
+                            scored_results=results,
+                            session_type="live_processing",
+                            model_used=model_choice
+                        )
+                        st.info(f"💾 Results saved to your personal lead database (Session: {session_id[:8]}...)")
+                    
                     # Convert to DataFrame for display
                     df_results = pd.json_normalize(results)
                     
@@ -433,14 +498,22 @@ def main():
                     df_summary = df_results[['company', 'score', 'priority']].sort_values('score', ascending=False)
                     st.dataframe(df_summary, use_container_width=True)
                     
-                    # Download button
-                    json_results = json.dumps(results, indent=2)
-                    st.download_button(
-                        label="Download Results as JSON",
-                        data=json_results,
-                        file_name="recursor_results.json",
-                        mime="application/json"
-                    )
+                    # Navigation to personal pipeline
+                    col1, col2 = st.columns(2)
+                    
+                    with col1:
+                        json_results = json.dumps(results, indent=2)
+                        st.download_button(
+                            label="Download Results as JSON",
+                            data=json_results,
+                            file_name="recursor_results.json",
+                            mime="application/json"
+                        )
+                    
+                    with col2:
+                        if st.button("📊 View in My Pipeline", type="secondary"):
+                            st.session_state.show_personal_pipeline = True
+                            st.rerun()
         
         else:
             st.info("Enter company names or upload a CSV to get started")
